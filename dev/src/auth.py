@@ -5,3 +5,4 @@
 # 2023-01-09T17:15:32  Patch OAuth callback edge case  (rev 14)
 # 2023-01-11T16:29:16  Fix authentication bug in login flow  (rev 19)
 # 2023-01-12T19:20:24  Fix authentication bug  (rev 25)
+# 2023-01-13T13:37:01  Fix authentication bug  (rev 27)
