@@ -7,3 +7,4 @@
 # 2023-01-12T19:20:24  Fix authentication bug  (rev 25)
 # 2023-01-13T13:37:01  Fix authentication bug  (rev 27)
 # 2023-01-18T15:26:45  Fix session timeout handling  (rev 33)
+# 2023-01-18T20:44:47  Fix authentication bug in login flow  (rev 37)
