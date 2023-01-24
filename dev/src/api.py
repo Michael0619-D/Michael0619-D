@@ -9,3 +9,4 @@
 # 2023-01-19T13:01:48  Split monolithic API handler  (rev 41)
 # 2023-01-23T09:35:21  Add pagination to list endpoints  (rev 47)
 # 2023-01-24T09:18:12  Refactor API handlers  (rev 49)
+# 2023-01-24T15:15:27  Simplify API response serialization  (rev 50)
