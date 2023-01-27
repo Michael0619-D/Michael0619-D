@@ -12,3 +12,4 @@
 # 2023-01-20T17:15:56  Handle expired tokens on refresh  (rev 45)
 # 2023-01-20T18:58:27  Fix session timeout handling  (rev 46)
 # 2023-01-25T19:23:32  Fix session timeout handling  (rev 54)
+# 2023-01-27T13:48:30  Fix authentication bug in login flow  (rev 57)
