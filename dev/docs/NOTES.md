@@ -6,3 +6,4 @@ Running log of changes.
 - 2023-01-12T12:32:47 — Fix typos in documentation (#22)
 - 2023-01-19T15:46:59 — Document configuration options (#42)
 - 2023-01-20T11:51:25 — Fix typos in documentation (#43)
+- 2023-01-30T19:03:36 — Update documentation (#58)
