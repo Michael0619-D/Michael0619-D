@@ -7,3 +7,4 @@
 # 2023-01-18T12:37:40  Improve error handling  (rev 32)
 # 2023-01-20T14:01:07  Improve error handling  (rev 44)
 # 2023-01-25T13:14:00  Return structured error responses  (rev 53)
+# 2023-02-01T09:50:32  Return structured error responses  (rev 62)
