@@ -4,3 +4,4 @@
 # 2023-02-02T12:21:01  Cleanup unused code  (rev 67)
 # 2023-02-02T20:43:03  Rename variables for clarity  (rev 69)
 # 2023-02-03T19:52:51  Tidy up module structure  (rev 71)
+# 2023-02-04T19:16:31  Drop deprecated helpers  (rev 73)
