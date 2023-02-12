@@ -8,3 +8,4 @@
 # 2023-02-05T18:13:42  Add unit tests  (rev 74)
 # 2023-02-08T12:44:19  Add unit tests  (rev 82)
 # 2023-02-10T09:16:47  Increase test coverage for API layer  (rev 84)
+# 2023-02-12T16:33:50  Add regression test for auth flow  (rev 87)
