@@ -7,3 +7,4 @@
 # 2023-02-04T15:20:31  Polish loading states  (rev 72)
 # 2023-02-08T17:36:34  Polish loading states  (rev 83)
 # 2023-02-14T21:08:19  Fix layout shift on load  (rev 89)
+# 2023-02-16T10:57:14  Debounce search input  (rev 91)
