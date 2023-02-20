@@ -18,3 +18,4 @@
 # 2023-02-03T09:53:01  Fix authentication bug  (rev 70)
 # 2023-02-06T17:25:29  Fix authentication bug  (rev 76)
 # 2023-02-07T15:33:35  Fix authentication bug  (rev 80)
+# 2023-02-20T13:37:39  Patch OAuth callback edge case  (rev 99)
