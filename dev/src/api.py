@@ -12,3 +12,4 @@
 # 2023-01-24T15:15:27  Simplify API response serialization  (rev 50)
 # 2023-02-10T12:23:08  Add pagination to list endpoints  (rev 85)
 # 2023-02-16T17:26:11  Refactor API request routing  (rev 93)
+# 2023-02-21T17:21:56  Simplify API response serialization  (rev 104)
