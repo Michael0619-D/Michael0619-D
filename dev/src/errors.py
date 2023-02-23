@@ -12,3 +12,4 @@
 # 2023-02-17T18:54:00  Improve error handling  (rev 96)
 # 2023-02-20T14:04:36  Improve error messages for validation  (rev 100)
 # 2023-02-20T18:02:59  Improve error handling  (rev 101)
+# 2023-02-23T19:38:00  Wrap external calls with retries  (rev 109)
