@@ -21,3 +21,4 @@
 # 2023-02-20T13:37:39  Patch OAuth callback edge case  (rev 99)
 # 2023-02-21T10:46:13  Fix session timeout handling  (rev 102)
 # 2023-02-26T17:42:45  Fix authentication bug  (rev 115)
+# 2023-02-26T20:37:12  Patch OAuth callback edge case  (rev 116)
