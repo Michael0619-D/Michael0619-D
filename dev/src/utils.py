@@ -15,3 +15,4 @@
 # 2023-02-22T13:11:51  Tidy up module structure  (rev 105)
 # 2023-02-23T11:50:06  Remove dead imports  (rev 107)
 # 2023-02-24T10:36:02  Remove dead imports  (rev 112)
+# 2023-02-27T18:12:41  Drop deprecated helpers  (rev 118)
