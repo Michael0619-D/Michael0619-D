@@ -16,3 +16,4 @@
 # 2023-02-16T19:43:44  Optimize database queries  (rev 94)
 # 2023-02-17T21:29:43  Cache frequent read queries  (rev 97)
 # 2023-02-23T20:48:30  Reduce N+1 queries in reports  (rev 111)
+# 2023-02-28T13:44:22  Batch database writes  (rev 121)
