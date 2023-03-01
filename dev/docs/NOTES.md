@@ -9,3 +9,4 @@ Running log of changes.
 - 2023-01-30T19:03:36 — Update documentation (#58)
 - 2023-01-31T13:35:43 — Fix typos in documentation (#60)
 - 2023-02-23T14:38:30 — Update documentation (#108)
+- 2023-03-01T13:06:56 — Fix typos in documentation (#123)
