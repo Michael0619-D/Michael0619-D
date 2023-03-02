@@ -10,3 +10,4 @@
 # 2023-02-10T09:16:47  Increase test coverage for API layer  (rev 84)
 # 2023-02-12T16:33:50  Add regression test for auth flow  (rev 87)
 # 2023-02-23T20:12:15  Add edge-case tests for parser  (rev 110)
+# 2023-03-02T10:17:32  Add unit tests  (rev 125)
