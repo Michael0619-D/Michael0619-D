@@ -13,3 +13,4 @@
 # 2023-02-27T17:26:19  Improve mobile responsiveness  (rev 117)
 # 2023-03-03T14:23:25  Improve mobile responsiveness  (rev 129)
 # 2023-03-03T20:58:59  Fix layout shift on load  (rev 132)
+# 2023-03-09T15:09:09  Polish loading states  (rev 141)
