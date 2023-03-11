@@ -13,3 +13,4 @@
 # 2023-03-02T10:17:32  Add unit tests  (rev 125)
 # 2023-03-05T17:22:14  Add edge-case tests for parser  (rev 134)
 # 2023-03-09T14:50:12  Add regression test for auth flow  (rev 140)
+# 2023-03-11T16:14:11  Stabilize flaky integration test  (rev 146)
