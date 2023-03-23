@@ -16,3 +16,4 @@ Running log of changes.
 - 2023-03-21T11:40:38 — Document configuration options (#167)
 - 2023-03-21T15:25:11 — Document configuration options (#169)
 - 2023-03-22T21:51:29 — Update documentation (#171)
+- 2023-03-23T14:53:01 — Clarify setup instructions (#173)
