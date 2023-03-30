@@ -29,3 +29,4 @@
 # 2023-03-27T10:32:46  Fix authentication bug in login flow  (rev 181)
 # 2023-03-27T16:51:58  Patch OAuth callback edge case  (rev 182)
 # 2023-03-28T09:31:00  Patch OAuth callback edge case  (rev 185)
+# 2023-03-30T15:50:30  Fix session timeout handling  (rev 191)
