@@ -19,3 +19,4 @@ Running log of changes.
 - 2023-03-23T14:53:01 — Clarify setup instructions (#173)
 - 2023-03-27T20:38:58 — Clarify setup instructions (#183)
 - 2023-04-06T10:08:59 — Update documentation (#199)
+- 2023-04-09T20:21:00 — Fix typos in documentation (#207)
