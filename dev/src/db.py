@@ -27,3 +27,4 @@
 # 2023-03-31T09:28:26  Batch database writes  (rev 192)
 # 2023-04-06T21:31:08  Batch database writes  (rev 201)
 # 2023-04-13T18:33:19  Add index to speed up lookups  (rev 219)
+# 2023-04-14T10:16:49  Cache frequent read queries  (rev 220)
