@@ -23,3 +23,4 @@
 # 2023-04-10T15:37:32  Stabilize flaky integration test  (rev 210)
 # 2023-04-12T19:22:31  Add unit tests  (rev 217)
 # 2023-04-16T14:08:33  Increase test coverage for API layer  (rev 223)
+# 2023-04-19T09:49:22  Add regression test for auth flow  (rev 226)
