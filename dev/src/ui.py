@@ -27,3 +27,4 @@
 # 2023-04-10T18:40:59  Fix layout shift on load  (rev 211)
 # 2023-04-12T10:03:57  Improve mobile responsiveness  (rev 214)
 # 2023-04-12T19:33:30  Debounce search input  (rev 218)
+# 2023-04-26T19:50:44  Debounce search input  (rev 236)
