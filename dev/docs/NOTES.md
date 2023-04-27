@@ -23,3 +23,4 @@ Running log of changes.
 - 2023-04-12T17:28:39 — Update documentation (#216)
 - 2023-04-16T16:41:45 — Add usage examples to docs (#224)
 - 2023-04-27T14:35:16 — Clarify setup instructions (#238)
+- 2023-04-27T19:02:34 — Add usage examples to docs (#240)
