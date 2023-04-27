@@ -22,3 +22,4 @@ Running log of changes.
 - 2023-04-09T20:21:00 — Fix typos in documentation (#207)
 - 2023-04-12T17:28:39 — Update documentation (#216)
 - 2023-04-16T16:41:45 — Add usage examples to docs (#224)
+- 2023-04-27T14:35:16 — Clarify setup instructions (#238)
