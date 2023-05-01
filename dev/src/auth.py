@@ -33,3 +33,4 @@
 # 2023-04-06T15:15:14  Fix session timeout handling  (rev 200)
 # 2023-04-09T18:39:38  Fix session timeout handling  (rev 206)
 # 2023-04-28T12:41:39  Handle expired tokens on refresh  (rev 241)
+# 2023-05-01T14:03:00  Fix session timeout handling  (rev 247)
