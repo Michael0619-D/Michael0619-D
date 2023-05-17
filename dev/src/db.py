@@ -30,3 +30,4 @@
 # 2023-04-14T10:16:49  Cache frequent read queries  (rev 220)
 # 2023-04-26T16:44:51  Reduce N+1 queries in reports  (rev 234)
 # 2023-04-27T15:20:05  Batch database writes  (rev 239)
+# 2023-05-17T10:46:33  Cache frequent read queries  (rev 253)
