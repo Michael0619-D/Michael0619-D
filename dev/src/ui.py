@@ -33,3 +33,4 @@
 # 2023-04-29T12:04:15  Debounce search input  (rev 245)
 # 2023-05-15T17:49:46  Polish loading states  (rev 249)
 # 2023-05-18T19:38:50  Improve UI responsiveness  (rev 260)
+# 2023-05-19T15:45:56  Fix layout shift on load  (rev 262)
