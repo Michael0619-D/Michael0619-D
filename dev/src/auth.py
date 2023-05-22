@@ -36,3 +36,4 @@
 # 2023-05-01T14:03:00  Fix session timeout handling  (rev 247)
 # 2023-05-15T17:49:52  Fix session timeout handling  (rev 250)
 # 2023-05-15T21:45:26  Fix authentication bug  (rev 251)
+# 2023-05-22T18:15:49  Fix authentication bug  (rev 266)
