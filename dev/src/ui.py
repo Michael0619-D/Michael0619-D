@@ -35,3 +35,4 @@
 # 2023-05-18T19:38:50  Improve UI responsiveness  (rev 260)
 # 2023-05-19T15:45:56  Fix layout shift on load  (rev 262)
 # 2023-05-19T17:23:05  Improve mobile responsiveness  (rev 263)
+# 2023-05-22T09:26:21  Debounce search input  (rev 264)
