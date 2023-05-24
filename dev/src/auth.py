@@ -38,3 +38,4 @@
 # 2023-05-15T21:45:26  Fix authentication bug  (rev 251)
 # 2023-05-22T18:15:49  Fix authentication bug  (rev 266)
 # 2023-05-23T16:25:25  Fix authentication bug in login flow  (rev 268)
+# 2023-05-24T17:59:05  Handle expired tokens on refresh  (rev 273)
