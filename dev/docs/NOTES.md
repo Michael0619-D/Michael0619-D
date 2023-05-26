@@ -28,3 +28,4 @@ Running log of changes.
 - 2023-05-12T15:33:07 — Update documentation (#248)
 - 2023-05-18T19:13:50 — Fix typos in documentation (#259)
 - 2023-05-26T18:18:12 — Fix typos in documentation (#279)
+- 2023-05-26T21:54:09 — Clarify setup instructions (#282)
