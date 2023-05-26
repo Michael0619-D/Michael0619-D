@@ -27,3 +27,4 @@ Running log of changes.
 - 2023-04-29T10:01:49 — Fix typos in documentation (#244)
 - 2023-05-12T15:33:07 — Update documentation (#248)
 - 2023-05-18T19:13:50 — Fix typos in documentation (#259)
+- 2023-05-26T18:18:12 — Fix typos in documentation (#279)
