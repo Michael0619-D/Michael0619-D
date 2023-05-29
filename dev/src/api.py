@@ -40,3 +40,4 @@
 # 2023-04-26T19:22:24  Refactor API handlers  (rev 235)
 # 2023-05-16T10:36:52  Refactor API request routing  (rev 252)
 # 2023-05-17T18:18:11  Refactor API handlers  (rev 256)
+# 2023-05-29T15:38:09  Split monolithic API handler  (rev 286)
