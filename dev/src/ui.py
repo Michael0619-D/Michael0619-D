@@ -39,3 +39,4 @@
 # 2023-05-23T16:45:04  Fix layout shift on load  (rev 269)
 # 2023-05-24T14:19:43  Fix layout shift on load  (rev 272)
 # 2023-05-25T13:37:38  Fix layout shift on load  (rev 276)
+# 2023-06-01T14:31:26  Improve mobile responsiveness  (rev 295)
