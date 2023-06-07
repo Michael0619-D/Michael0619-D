@@ -34,3 +34,4 @@
 # 2023-05-27T12:59:49  Return structured error responses  (rev 283)
 # 2023-06-01T09:59:02  Improve error handling  (rev 293)
 # 2023-06-05T16:20:18  Improve error messages for validation  (rev 299)
+# 2023-06-07T11:44:56  Improve error handling  (rev 304)
