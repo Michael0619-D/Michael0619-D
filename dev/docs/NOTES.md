@@ -32,3 +32,4 @@ Running log of changes.
 - 2023-06-01T09:25:32 — Add usage examples to docs (#292)
 - 2023-06-06T16:14:18 — Fix typos in documentation (#302)
 - 2023-06-09T10:40:19 — Clarify setup instructions (#310)
+- 2023-06-15T15:29:46 — Clarify setup instructions (#322)
