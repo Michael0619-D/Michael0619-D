@@ -44,3 +44,4 @@
 # 2023-06-15T11:51:43  Add index to speed up lookups  (rev 321)
 # 2023-06-16T12:54:27  Batch database writes  (rev 324)
 # 2023-06-19T15:36:30  Batch database writes  (rev 329)
+# 2023-06-21T19:23:38  Reduce N+1 queries in reports  (rev 337)
