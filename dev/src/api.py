@@ -45,3 +45,4 @@
 # 2023-06-15T19:01:19  Split monolithic API handler  (rev 323)
 # 2023-06-19T11:33:58  Simplify API response serialization  (rev 328)
 # 2023-06-23T13:07:32  Add pagination to list endpoints  (rev 342)
+# 2023-06-25T17:57:25  Split monolithic API handler  (rev 345)
