@@ -39,3 +39,4 @@
 # 2023-06-19T10:23:39  Wrap external calls with retries  (rev 327)
 # 2023-06-21T13:55:54  Wrap external calls with retries  (rev 336)
 # 2023-06-24T21:43:52  Improve error handling  (rev 344)
+# 2023-06-29T21:28:44  Improve error messages for validation  (rev 352)
