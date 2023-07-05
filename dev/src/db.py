@@ -47,3 +47,4 @@
 # 2023-06-21T19:23:38  Reduce N+1 queries in reports  (rev 337)
 # 2023-06-26T20:20:03  Reduce N+1 queries in reports  (rev 346)
 # 2023-06-29T16:03:33  Cache frequent read queries  (rev 351)
+# 2023-07-05T12:55:51  Add index to speed up lookups  (rev 356)
