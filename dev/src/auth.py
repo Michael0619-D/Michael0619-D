@@ -45,3 +45,4 @@
 # 2023-06-12T11:26:02  Fix authentication bug  (rev 313)
 # 2023-06-13T17:47:55  Handle expired tokens on refresh  (rev 318)
 # 2023-07-06T11:11:50  Fix authentication bug  (rev 359)
+# 2023-07-07T10:10:26  Fix session timeout handling  (rev 361)
