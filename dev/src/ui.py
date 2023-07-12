@@ -46,3 +46,4 @@
 # 2023-06-20T18:33:15  Fix layout shift on load  (rev 331)
 # 2023-06-20T19:19:05  Improve UI responsiveness  (rev 332)
 # 2023-06-22T20:23:01  Fix layout shift on load  (rev 340)
+# 2023-07-12T16:59:58  Debounce search input  (rev 368)
