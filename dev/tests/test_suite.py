@@ -44,3 +44,4 @@
 # 2023-06-27T18:07:41  Add unit tests  (rev 347)
 # 2023-07-10T13:10:13  Increase test coverage for API layer  (rev 363)
 # 2023-07-11T14:47:53  Add unit tests  (rev 365)
+# 2023-07-13T16:50:47  Stabilize flaky integration test  (rev 375)
