@@ -38,3 +38,4 @@ Running log of changes.
 - 2023-07-17T14:14:11 — Clarify setup instructions (#381)
 - 2023-07-17T18:54:39 — Update documentation (#383)
 - 2023-07-18T15:47:57 — Document configuration options (#386)
+- 2023-07-19T10:31:33 — Fix typos in documentation (#390)
