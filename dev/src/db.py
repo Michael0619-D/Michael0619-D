@@ -54,3 +54,4 @@
 # 2023-07-15T11:38:58  Reduce N+1 queries in reports  (rev 379)
 # 2023-07-18T14:47:05  Reduce N+1 queries in reports  (rev 385)
 # 2023-07-19T12:17:02  Reduce N+1 queries in reports  (rev 391)
+# 2023-07-20T14:12:34  Optimize database queries  (rev 393)
