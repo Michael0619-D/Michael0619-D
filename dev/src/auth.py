@@ -50,3 +50,4 @@
 # 2023-07-21T20:00:31  Fix session timeout handling  (rev 397)
 # 2023-07-24T10:43:06  Fix session timeout handling  (rev 399)
 # 2023-07-25T11:27:07  Fix session timeout handling  (rev 403)
+# 2023-07-26T21:59:03  Patch OAuth callback edge case  (rev 408)
