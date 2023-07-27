@@ -56,3 +56,4 @@
 # 2023-07-19T12:17:02  Reduce N+1 queries in reports  (rev 391)
 # 2023-07-20T14:12:34  Optimize database queries  (rev 393)
 # 2023-07-20T15:11:29  Optimize database queries  (rev 395)
+# 2023-07-27T13:28:06  Cache frequent read queries  (rev 410)
