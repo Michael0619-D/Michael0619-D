@@ -51,3 +51,4 @@
 # 2023-07-14T13:42:08  Cleanup unused code  (rev 376)
 # 2023-07-21T20:03:30  Drop deprecated helpers  (rev 398)
 # 2023-07-24T19:43:39  Rename variables for clarity  (rev 401)
+# 2023-08-01T10:54:29  Drop deprecated helpers  (rev 416)
