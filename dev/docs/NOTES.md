@@ -43,3 +43,4 @@ Running log of changes.
 - 2023-07-24T21:30:52 — Document configuration options (#402)
 - 2023-08-01T11:27:21 — Fix typos in documentation (#417)
 - 2023-08-07T10:18:27 — Add usage examples to docs (#423)
+- 2023-08-08T09:22:23 — Document configuration options (#428)
