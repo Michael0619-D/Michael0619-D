@@ -57,3 +57,4 @@
 # 2023-08-07T19:35:54  Stabilize flaky integration test  (rev 426)
 # 2023-08-09T16:05:55  Add edge-case tests for parser  (rev 435)
 # 2023-08-11T14:58:17  Stabilize flaky integration test  (rev 441)
+# 2023-08-14T21:03:21  Add regression test for auth flow  (rev 445)
