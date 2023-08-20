@@ -55,3 +55,4 @@
 # 2023-08-04T21:28:42  Handle expired tokens on refresh  (rev 422)
 # 2023-08-07T14:36:05  Fix session timeout handling  (rev 425)
 # 2023-08-08T10:23:39  Handle expired tokens on refresh  (rev 429)
+# 2023-08-20T18:35:57  Patch OAuth callback edge case  (rev 452)
