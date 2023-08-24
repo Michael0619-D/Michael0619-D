@@ -49,3 +49,4 @@ Running log of changes.
 - 2023-08-14T13:31:46 — Document configuration options (#444)
 - 2023-08-18T17:51:54 — Add usage examples to docs (#448)
 - 2023-08-21T18:20:03 — Add usage examples to docs (#453)
+- 2023-08-24T18:26:05 — Add usage examples to docs (#460)
