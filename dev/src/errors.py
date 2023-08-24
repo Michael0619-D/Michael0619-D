@@ -47,3 +47,4 @@
 # 2023-08-08T10:40:49  Add graceful degradation on failure  (rev 430)
 # 2023-08-14T09:49:17  Wrap external calls with retries  (rev 443)
 # 2023-08-18T12:06:01  Wrap external calls with retries  (rev 447)
+# 2023-08-24T12:01:00  Improve error handling  (rev 458)
