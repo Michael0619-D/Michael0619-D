@@ -62,3 +62,4 @@
 # 2023-08-22T17:40:49  Remove dead imports  (rev 455)
 # 2023-08-24T16:43:00  Remove dead imports  (rev 459)
 # 2023-08-25T16:08:39  Tidy up module structure  (rev 463)
+# 2023-08-25T16:40:07  Drop deprecated helpers  (rev 464)
