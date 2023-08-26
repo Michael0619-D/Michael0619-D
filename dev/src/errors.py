@@ -48,3 +48,4 @@
 # 2023-08-14T09:49:17  Wrap external calls with retries  (rev 443)
 # 2023-08-18T12:06:01  Wrap external calls with retries  (rev 447)
 # 2023-08-24T12:01:00  Improve error handling  (rev 458)
+# 2023-08-26T16:30:08  Return structured error responses  (rev 467)
