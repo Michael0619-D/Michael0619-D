@@ -53,3 +53,4 @@
 # 2023-07-28T16:56:41  Fix layout shift on load  (rev 413)
 # 2023-08-01T20:23:19  Polish loading states  (rev 418)
 # 2023-08-25T12:40:04  Polish loading states  (rev 462)
+# 2023-08-28T15:18:42  Debounce search input  (rev 469)
