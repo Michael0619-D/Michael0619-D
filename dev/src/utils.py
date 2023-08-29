@@ -64,3 +64,4 @@
 # 2023-08-25T16:08:39  Tidy up module structure  (rev 463)
 # 2023-08-25T16:40:07  Drop deprecated helpers  (rev 464)
 # 2023-08-28T16:29:22  Tidy up module structure  (rev 470)
+# 2023-08-29T10:31:12  Rename variables for clarity  (rev 473)
