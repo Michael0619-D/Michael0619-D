@@ -68,3 +68,4 @@
 # 2023-08-23T16:20:54  Refactor API handlers  (rev 456)
 # 2023-08-29T09:49:58  Refactor API handlers  (rev 472)
 # 2023-08-30T21:20:15  Refactor API request routing  (rev 477)
+# 2023-08-31T14:50:11  Simplify API response serialization  (rev 481)
