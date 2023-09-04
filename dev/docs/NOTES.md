@@ -51,3 +51,4 @@ Running log of changes.
 - 2023-08-21T18:20:03 — Add usage examples to docs (#453)
 - 2023-08-24T18:26:05 — Add usage examples to docs (#460)
 - 2023-08-24T18:42:32 — Fix typos in documentation (#461)
+- 2023-09-04T13:38:03 — Add usage examples to docs (#486)
