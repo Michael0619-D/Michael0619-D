@@ -53,3 +53,4 @@ Running log of changes.
 - 2023-08-24T18:42:32 — Fix typos in documentation (#461)
 - 2023-09-04T13:38:03 — Add usage examples to docs (#486)
 - 2023-09-04T17:46:42 — Fix typos in documentation (#487)
+- 2023-09-05T21:02:14 — Document configuration options (#491)
