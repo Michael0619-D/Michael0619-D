@@ -68,3 +68,4 @@
 # 2023-08-31T20:29:41  Cleanup unused code  (rev 482)
 # 2023-09-02T17:02:26  Cleanup unused code  (rev 484)
 # 2023-09-04T10:32:26  Tidy up module structure  (rev 485)
+# 2023-09-05T11:52:15  Drop deprecated helpers  (rev 488)
