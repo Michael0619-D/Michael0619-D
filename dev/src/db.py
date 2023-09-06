@@ -65,3 +65,4 @@
 # 2023-08-26T09:27:23  Cache frequent read queries  (rev 466)
 # 2023-08-31T13:14:29  Batch database writes  (rev 480)
 # 2023-09-02T15:09:34  Reduce N+1 queries in reports  (rev 483)
+# 2023-09-06T21:08:16  Add index to speed up lookups  (rev 494)
