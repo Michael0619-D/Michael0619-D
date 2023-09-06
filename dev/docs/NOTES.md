@@ -55,3 +55,4 @@ Running log of changes.
 - 2023-09-04T17:46:42 — Fix typos in documentation (#487)
 - 2023-09-05T21:02:14 — Document configuration options (#491)
 - 2023-09-06T15:35:25 — Document configuration options (#493)
+- 2023-09-06T21:38:00 — Document configuration options (#495)
