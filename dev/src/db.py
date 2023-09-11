@@ -67,3 +67,4 @@
 # 2023-09-02T15:09:34  Reduce N+1 queries in reports  (rev 483)
 # 2023-09-06T21:08:16  Add index to speed up lookups  (rev 494)
 # 2023-09-07T11:13:23  Add index to speed up lookups  (rev 496)
+# 2023-09-11T15:22:49  Reduce N+1 queries in reports  (rev 498)
