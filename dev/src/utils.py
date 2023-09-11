@@ -70,3 +70,4 @@
 # 2023-09-04T10:32:26  Tidy up module structure  (rev 485)
 # 2023-09-05T11:52:15  Drop deprecated helpers  (rev 488)
 # 2023-09-05T19:04:11  Rename variables for clarity  (rev 490)
+# 2023-09-11T17:20:46  Rename variables for clarity  (rev 499)
