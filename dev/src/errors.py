@@ -49,3 +49,4 @@
 # 2023-08-18T12:06:01  Wrap external calls with retries  (rev 447)
 # 2023-08-24T12:01:00  Improve error handling  (rev 458)
 # 2023-08-26T16:30:08  Return structured error responses  (rev 467)
+# 2023-09-12T12:41:45  Improve error messages for validation  (rev 502)
