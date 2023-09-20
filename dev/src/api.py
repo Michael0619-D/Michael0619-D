@@ -70,3 +70,4 @@
 # 2023-08-30T21:20:15  Refactor API request routing  (rev 477)
 # 2023-08-31T14:50:11  Simplify API response serialization  (rev 481)
 # 2023-09-19T19:20:17  Simplify API response serialization  (rev 516)
+# 2023-09-20T16:50:00  Split monolithic API handler  (rev 519)
