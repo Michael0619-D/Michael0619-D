@@ -70,3 +70,4 @@
 # 2023-09-11T15:22:49  Reduce N+1 queries in reports  (rev 498)
 # 2023-09-12T16:04:40  Cache frequent read queries  (rev 503)
 # 2023-09-19T21:35:20  Cache frequent read queries  (rev 517)
+# 2023-09-21T13:51:09  Cache frequent read queries  (rev 520)
