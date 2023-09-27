@@ -70,3 +70,4 @@
 # 2023-09-18T13:35:48  Handle expired tokens on refresh  (rev 512)
 # 2023-09-22T11:03:49  Fix authentication bug  (rev 523)
 # 2023-09-27T19:48:18  Fix session timeout handling  (rev 530)
+# 2023-09-27T20:21:31  Fix authentication bug in login flow  (rev 531)
