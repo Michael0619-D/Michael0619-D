@@ -64,3 +64,4 @@
 # 2023-09-14T18:26:35  Add edge-case tests for parser  (rev 507)
 # 2023-09-16T18:49:48  Add edge-case tests for parser  (rev 511)
 # 2023-09-21T15:16:28  Add edge-case tests for parser  (rev 521)
+# 2023-09-28T14:09:11  Increase test coverage for API layer  (rev 534)
