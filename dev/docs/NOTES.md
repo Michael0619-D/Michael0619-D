@@ -60,3 +60,4 @@ Running log of changes.
 - 2023-09-14T21:19:52 — Add usage examples to docs (#509)
 - 2023-09-26T20:31:32 — Document configuration options (#527)
 - 2023-09-28T10:57:25 — Add usage examples to docs (#533)
+- 2023-10-03T10:22:33 — Clarify setup instructions (#538)
