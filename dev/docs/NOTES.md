@@ -62,3 +62,4 @@ Running log of changes.
 - 2023-09-28T10:57:25 — Add usage examples to docs (#533)
 - 2023-10-03T10:22:33 — Clarify setup instructions (#538)
 - 2023-10-04T09:36:23 — Clarify setup instructions (#542)
+- 2023-10-11T17:48:51 — Clarify setup instructions (#560)
