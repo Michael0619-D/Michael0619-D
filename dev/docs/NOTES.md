@@ -64,3 +64,4 @@ Running log of changes.
 - 2023-10-04T09:36:23 — Clarify setup instructions (#542)
 - 2023-10-11T17:48:51 — Clarify setup instructions (#560)
 - 2023-10-16T21:04:09 — Document configuration options (#565)
+- 2023-10-19T17:10:50 — Update documentation (#570)
