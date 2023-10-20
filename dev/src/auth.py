@@ -72,3 +72,4 @@
 # 2023-09-27T19:48:18  Fix session timeout handling  (rev 530)
 # 2023-09-27T20:21:31  Fix authentication bug in login flow  (rev 531)
 # 2023-10-03T16:01:06  Patch OAuth callback edge case  (rev 540)
+# 2023-10-20T19:25:47  Patch OAuth callback edge case  (rev 574)
