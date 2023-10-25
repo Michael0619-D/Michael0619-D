@@ -77,3 +77,4 @@
 # 2023-10-04T12:14:16  Refactor API request routing  (rev 543)
 # 2023-10-04T20:06:19  Split monolithic API handler  (rev 546)
 # 2023-10-24T16:53:56  Refactor API handlers  (rev 577)
+# 2023-10-25T21:18:42  Refactor API request routing  (rev 579)
