@@ -80,3 +80,4 @@
 # 2023-10-19T21:07:10  Cleanup unused code  (rev 572)
 # 2023-10-22T17:20:53  Tidy up module structure  (rev 576)
 # 2023-10-27T21:48:57  Rename variables for clarity  (rev 581)
+# 2023-11-05T16:08:59  Rename variables for clarity  (rev 589)
