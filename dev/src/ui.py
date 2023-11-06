@@ -67,3 +67,4 @@
 # 2023-10-20T11:16:04  Improve mobile responsiveness  (rev 573)
 # 2023-10-29T18:12:17  Improve mobile responsiveness  (rev 584)
 # 2023-10-29T21:20:07  Debounce search input  (rev 585)
+# 2023-11-06T13:11:04  Polish loading states  (rev 590)
