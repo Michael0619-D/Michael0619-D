@@ -85,3 +85,4 @@
 # 2023-11-10T13:09:30  Remove dead imports  (rev 601)
 # 2023-11-11T09:23:22  Rename variables for clarity  (rev 603)
 # 2023-11-13T11:04:18  Rename variables for clarity  (rev 606)
+# 2023-11-16T14:02:00  Drop deprecated helpers  (rev 611)
