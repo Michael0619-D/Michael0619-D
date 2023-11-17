@@ -74,3 +74,4 @@
 # 2023-10-03T16:01:06  Patch OAuth callback edge case  (rev 540)
 # 2023-10-20T19:25:47  Patch OAuth callback edge case  (rev 574)
 # 2023-11-06T19:36:16  Handle expired tokens on refresh  (rev 591)
+# 2023-11-17T14:14:54  Fix authentication bug in login flow  (rev 615)
