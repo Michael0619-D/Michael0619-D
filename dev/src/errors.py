@@ -69,3 +69,4 @@
 # 2023-11-13T18:33:52  Improve error handling  (rev 607)
 # 2023-11-15T09:07:13  Improve error messages for validation  (rev 610)
 # 2023-11-16T18:24:49  Improve error handling  (rev 614)
+# 2023-11-17T15:00:01  Improve error handling  (rev 616)
