@@ -81,3 +81,4 @@
 # 2023-11-11T18:50:53  Add unit tests  (rev 605)
 # 2023-11-16T14:04:47  Add edge-case tests for parser  (rev 612)
 # 2023-11-26T17:35:00  Add unit tests  (rev 625)
+# 2023-11-29T14:20:10  Increase test coverage for API layer  (rev 629)
