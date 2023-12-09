@@ -88,3 +88,4 @@
 # 2023-11-29T16:42:01  Batch database writes  (rev 630)
 # 2023-11-30T12:41:14  Cache frequent read queries  (rev 632)
 # 2023-12-03T12:47:23  Batch database writes  (rev 637)
+# 2023-12-09T15:18:41  Add index to speed up lookups  (rev 647)
