@@ -78,3 +78,4 @@
 # 2023-11-28T14:56:16  Handle expired tokens on refresh  (rev 627)
 # 2023-11-30T14:29:41  Fix authentication bug  (rev 633)
 # 2023-12-12T15:05:00  Patch OAuth callback edge case  (rev 654)
+# 2023-12-12T18:36:34  Fix authentication bug  (rev 655)
