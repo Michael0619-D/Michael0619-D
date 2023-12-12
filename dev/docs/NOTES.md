@@ -71,3 +71,4 @@ Running log of changes.
 - 2023-12-08T14:36:42 — Fix typos in documentation (#642)
 - 2023-12-09T14:09:22 — Add usage examples to docs (#646)
 - 2023-12-11T16:24:15 — Update documentation (#652)
+- 2023-12-12T14:50:15 — Add usage examples to docs (#653)
