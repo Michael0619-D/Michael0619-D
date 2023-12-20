@@ -80,3 +80,4 @@
 # 2023-12-12T15:05:00  Patch OAuth callback edge case  (rev 654)
 # 2023-12-12T18:36:34  Fix authentication bug  (rev 655)
 # 2023-12-14T20:27:44  Fix session timeout handling  (rev 660)
+# 2023-12-20T09:12:12  Fix authentication bug  (rev 667)
