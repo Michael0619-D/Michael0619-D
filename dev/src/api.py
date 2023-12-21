@@ -87,3 +87,4 @@
 # 2023-12-18T16:11:38  Add pagination to list endpoints  (rev 665)
 # 2023-12-21T10:08:16  Split monolithic API handler  (rev 671)
 # 2023-12-21T13:06:37  Refactor API handlers  (rev 673)
+# 2023-12-21T19:56:36  Refactor API request routing  (rev 674)
