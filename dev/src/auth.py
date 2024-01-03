@@ -85,3 +85,4 @@
 # 2023-12-22T15:37:11  Fix session timeout handling  (rev 677)
 # 2023-12-23T13:37:27  Patch OAuth callback edge case  (rev 679)
 # 2024-01-02T15:15:10  Handle expired tokens on refresh  (rev 683)
+# 2024-01-03T10:36:32  Fix authentication bug in login flow  (rev 686)
