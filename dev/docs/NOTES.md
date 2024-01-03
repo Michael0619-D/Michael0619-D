@@ -73,3 +73,4 @@ Running log of changes.
 - 2023-12-11T16:24:15 — Update documentation (#652)
 - 2023-12-12T14:50:15 — Add usage examples to docs (#653)
 - 2023-12-20T11:31:09 — Document configuration options (#668)
+- 2024-01-03T21:33:06 — Clarify setup instructions (#692)
