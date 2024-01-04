@@ -76,3 +76,4 @@
 # 2023-12-20T14:12:22  Improve UI responsiveness  (rev 669)
 # 2023-12-22T09:35:53  Polish loading states  (rev 675)
 # 2024-01-03T17:06:19  Improve UI responsiveness  (rev 691)
+# 2024-01-04T21:40:55  Fix layout shift on load  (rev 694)
