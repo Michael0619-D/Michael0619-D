@@ -96,3 +96,4 @@
 # 2024-01-02T10:24:27  Rename variables for clarity  (rev 681)
 # 2024-01-03T11:59:37  Drop deprecated helpers  (rev 687)
 # 2024-01-04T13:45:41  Drop deprecated helpers  (rev 693)
+# 2024-01-08T16:31:25  Tidy up module structure  (rev 698)
