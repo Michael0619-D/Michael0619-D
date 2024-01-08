@@ -75,3 +75,4 @@ Running log of changes.
 - 2023-12-20T11:31:09 — Document configuration options (#668)
 - 2024-01-03T21:33:06 — Clarify setup instructions (#692)
 - 2024-01-08T19:23:09 — Document configuration options (#704)
+- 2024-01-08T19:35:28 — Document configuration options (#705)
