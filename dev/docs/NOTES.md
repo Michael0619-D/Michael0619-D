@@ -76,3 +76,4 @@ Running log of changes.
 - 2024-01-03T21:33:06 — Clarify setup instructions (#692)
 - 2024-01-08T19:23:09 — Document configuration options (#704)
 - 2024-01-08T19:35:28 — Document configuration options (#705)
+- 2024-01-10T19:10:55 — Add usage examples to docs (#708)
