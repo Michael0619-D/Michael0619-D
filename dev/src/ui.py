@@ -78,3 +78,4 @@
 # 2024-01-03T17:06:19  Improve UI responsiveness  (rev 691)
 # 2024-01-04T21:40:55  Fix layout shift on load  (rev 694)
 # 2024-01-05T11:24:25  Improve UI responsiveness  (rev 696)
+# 2024-01-11T14:10:01  Improve mobile responsiveness  (rev 711)
