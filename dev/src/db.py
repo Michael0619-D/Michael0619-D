@@ -93,3 +93,4 @@
 # 2023-12-18T13:14:35  Add index to speed up lookups  (rev 663)
 # 2024-01-02T11:15:31  Reduce N+1 queries in reports  (rev 682)
 # 2024-01-03T16:50:55  Add index to speed up lookups  (rev 690)
+# 2024-01-11T09:51:47  Optimize database queries  (rev 709)
