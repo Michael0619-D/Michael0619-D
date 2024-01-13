@@ -78,3 +78,4 @@ Running log of changes.
 - 2024-01-08T19:35:28 — Document configuration options (#705)
 - 2024-01-10T19:10:55 — Add usage examples to docs (#708)
 - 2024-01-12T12:56:38 — Fix typos in documentation (#714)
+- 2024-01-13T16:22:07 — Update documentation (#717)
