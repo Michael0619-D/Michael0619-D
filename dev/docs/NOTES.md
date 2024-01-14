@@ -80,3 +80,4 @@ Running log of changes.
 - 2024-01-12T12:56:38 — Fix typos in documentation (#714)
 - 2024-01-13T16:22:07 — Update documentation (#717)
 - 2024-01-13T20:43:21 — Add usage examples to docs (#719)
+- 2024-01-14T15:00:30 — Add usage examples to docs (#720)
