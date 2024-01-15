@@ -98,3 +98,4 @@
 # 2024-01-11T13:17:07  Increase test coverage for API layer  (rev 710)
 # 2024-01-13T11:44:49  Add edge-case tests for parser  (rev 716)
 # 2024-01-15T21:00:40  Add edge-case tests for parser  (rev 726)
+# 2024-01-15T21:50:53  Add regression test for auth flow  (rev 727)
