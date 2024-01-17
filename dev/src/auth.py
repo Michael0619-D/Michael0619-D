@@ -89,3 +89,4 @@
 # 2024-01-08T19:17:41  Patch OAuth callback edge case  (rev 702)
 # 2024-01-08T19:23:06  Fix authentication bug  (rev 703)
 # 2024-01-10T17:32:56  Fix authentication bug  (rev 707)
+# 2024-01-17T09:18:44  Fix session timeout handling  (rev 728)
