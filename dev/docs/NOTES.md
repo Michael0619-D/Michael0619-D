@@ -82,3 +82,4 @@ Running log of changes.
 - 2024-01-13T20:43:21 — Add usage examples to docs (#719)
 - 2024-01-14T15:00:30 — Add usage examples to docs (#720)
 - 2024-01-15T12:44:44 — Add usage examples to docs (#723)
+- 2024-01-17T15:22:28 — Clarify setup instructions (#731)
