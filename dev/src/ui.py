@@ -80,3 +80,4 @@
 # 2024-01-05T11:24:25  Improve UI responsiveness  (rev 696)
 # 2024-01-11T14:10:01  Improve mobile responsiveness  (rev 711)
 # 2024-01-12T11:56:04  Fix layout shift on load  (rev 713)
+# 2024-01-19T18:39:21  Debounce search input  (rev 742)
