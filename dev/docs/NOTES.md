@@ -86,3 +86,4 @@ Running log of changes.
 - 2024-01-17T17:51:01 — Update documentation (#732)
 - 2024-01-19T16:21:25 — Update documentation (#740)
 - 2024-01-19T20:06:36 — Fix typos in documentation (#743)
+- 2024-01-22T10:51:16 — Clarify setup instructions (#748)
