@@ -81,3 +81,4 @@
 # 2024-01-17T10:02:27  Improve error messages for validation  (rev 729)
 # 2024-01-17T19:40:01  Improve error handling  (rev 733)
 # 2024-01-18T11:45:41  Add graceful degradation on failure  (rev 736)
+# 2024-01-24T11:44:04  Return structured error responses  (rev 750)
