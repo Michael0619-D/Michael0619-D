@@ -95,3 +95,4 @@
 # 2024-01-20T11:01:37  Patch OAuth callback edge case  (rev 745)
 # 2024-01-20T21:19:49  Fix authentication bug in login flow  (rev 747)
 # 2024-01-24T17:52:10  Fix authentication bug in login flow  (rev 752)
+# 2024-01-26T09:40:59  Fix authentication bug  (rev 754)
