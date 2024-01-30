@@ -97,3 +97,4 @@
 # 2024-01-12T16:42:44  Simplify API response serialization  (rev 715)
 # 2024-01-14T20:58:53  Split monolithic API handler  (rev 721)
 # 2024-01-26T13:32:58  Add pagination to list endpoints  (rev 757)
+# 2024-01-30T21:47:40  Add pagination to list endpoints  (rev 770)
