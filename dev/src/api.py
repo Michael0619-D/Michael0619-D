@@ -99,3 +99,4 @@
 # 2024-01-26T13:32:58  Add pagination to list endpoints  (rev 757)
 # 2024-01-30T21:47:40  Add pagination to list endpoints  (rev 770)
 # 2024-02-01T15:47:57  Split monolithic API handler  (rev 775)
+# 2024-02-01T17:12:44  Refactor API handlers  (rev 776)
