@@ -105,3 +105,4 @@
 # 2024-02-06T19:47:11  Fix session timeout handling  (rev 793)
 # 2024-02-06T19:55:13  Fix session timeout handling  (rev 794)
 # 2024-02-07T18:14:22  Fix session timeout handling  (rev 800)
+# 2024-02-09T13:26:08  Handle expired tokens on refresh  (rev 807)
