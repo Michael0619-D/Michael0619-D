@@ -95,3 +95,4 @@ Running log of changes.
 - 2024-02-02T17:30:49 — Fix typos in documentation (#780)
 - 2024-02-03T20:29:36 — Clarify setup instructions (#786)
 - 2024-02-08T20:57:55 — Fix typos in documentation (#805)
+- 2024-02-09T18:39:54 — Clarify setup instructions (#809)
