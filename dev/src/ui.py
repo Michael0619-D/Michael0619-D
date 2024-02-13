@@ -92,3 +92,4 @@
 # 2024-02-07T21:13:10  Fix layout shift on load  (rev 802)
 # 2024-02-08T14:53:57  Fix layout shift on load  (rev 803)
 # 2024-02-09T18:13:56  Polish loading states  (rev 808)
+# 2024-02-13T15:42:53  Improve mobile responsiveness  (rev 818)
