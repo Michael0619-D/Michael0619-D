@@ -109,3 +109,4 @@
 # 2024-02-12T10:51:03  Cleanup unused code  (rev 810)
 # 2024-02-13T14:53:36  Cleanup unused code  (rev 816)
 # 2024-02-16T10:13:22  Cleanup unused code  (rev 832)
+# 2024-02-18T18:49:25  Drop deprecated helpers  (rev 836)
