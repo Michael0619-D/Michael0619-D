@@ -98,3 +98,4 @@ Running log of changes.
 - 2024-02-09T18:39:54 — Clarify setup instructions (#809)
 - 2024-02-13T18:14:58 — Document configuration options (#819)
 - 2024-02-14T16:37:50 — Clarify setup instructions (#821)
+- 2024-02-20T16:16:16 — Clarify setup instructions (#847)
