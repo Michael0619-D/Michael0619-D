@@ -94,3 +94,4 @@
 # 2024-02-09T18:13:56  Polish loading states  (rev 808)
 # 2024-02-13T15:42:53  Improve mobile responsiveness  (rev 818)
 # 2024-02-19T14:23:15  Fix layout shift on load  (rev 841)
+# 2024-02-21T10:31:12  Debounce search input  (rev 850)
