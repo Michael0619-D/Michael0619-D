@@ -99,3 +99,4 @@
 # 2024-02-22T17:24:21  Improve mobile responsiveness  (rev 860)
 # 2024-02-22T18:36:44  Improve mobile responsiveness  (rev 861)
 # 2024-02-27T10:15:19  Improve mobile responsiveness  (rev 871)
+# 2024-02-27T16:04:48  Polish loading states  (rev 873)
