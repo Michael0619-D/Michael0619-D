@@ -103,3 +103,4 @@ Running log of changes.
 - 2024-02-21T16:46:18 — Document configuration options (#853)
 - 2024-02-26T20:47:27 — Clarify setup instructions (#868)
 - 2024-02-26T21:51:48 — Fix typos in documentation (#870)
+- 2024-02-27T14:57:12 — Add usage examples to docs (#872)
