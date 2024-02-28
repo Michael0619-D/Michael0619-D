@@ -102,3 +102,4 @@
 # 2024-02-27T16:04:48  Polish loading states  (rev 873)
 # 2024-02-27T20:14:32  Polish loading states  (rev 877)
 # 2024-02-27T20:33:27  Polish loading states  (rev 878)
+# 2024-02-28T19:51:59  Fix layout shift on load  (rev 882)
