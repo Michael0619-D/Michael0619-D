@@ -115,3 +115,4 @@
 # 2024-02-22T10:29:30  Remove dead imports  (rev 857)
 # 2024-02-22T14:23:16  Cleanup unused code  (rev 859)
 # 2024-02-28T13:59:36  Drop deprecated helpers  (rev 881)
+# 2024-02-29T16:10:30  Rename variables for clarity  (rev 883)
