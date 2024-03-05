@@ -105,3 +105,4 @@ Running log of changes.
 - 2024-02-26T21:51:48 — Fix typos in documentation (#870)
 - 2024-02-27T14:57:12 — Add usage examples to docs (#872)
 - 2024-02-27T17:54:40 — Update documentation (#876)
+- 2024-03-05T15:55:32 — Update documentation (#900)
