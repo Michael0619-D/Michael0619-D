@@ -111,3 +111,4 @@
 # 2024-02-21T21:22:24  Fix authentication bug in login flow  (rev 855)
 # 2024-02-22T19:19:07  Fix session timeout handling  (rev 862)
 # 2024-02-26T15:37:53  Fix authentication bug  (rev 865)
+# 2024-03-08T11:51:54  Handle expired tokens on refresh  (rev 908)
