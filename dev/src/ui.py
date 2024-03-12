@@ -105,3 +105,4 @@
 # 2024-02-28T19:51:59  Fix layout shift on load  (rev 882)
 # 2024-03-04T15:54:39  Fix layout shift on load  (rev 892)
 # 2024-03-05T20:51:16  Improve mobile responsiveness  (rev 904)
+# 2024-03-12T18:15:52  Debounce search input  (rev 917)
