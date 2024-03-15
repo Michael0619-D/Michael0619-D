@@ -114,3 +114,4 @@
 # 2024-03-08T11:51:54  Handle expired tokens on refresh  (rev 908)
 # 2024-03-14T10:26:19  Fix authentication bug in login flow  (rev 922)
 # 2024-03-14T18:29:10  Patch OAuth callback edge case  (rev 923)
+# 2024-03-15T09:24:39  Handle expired tokens on refresh  (rev 927)
