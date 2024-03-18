@@ -107,3 +107,4 @@ Running log of changes.
 - 2024-02-27T17:54:40 — Update documentation (#876)
 - 2024-03-05T15:55:32 — Update documentation (#900)
 - 2024-03-08T09:31:13 — Document configuration options (#907)
+- 2024-03-18T10:57:20 — Document configuration options (#931)
