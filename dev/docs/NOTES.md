@@ -109,3 +109,4 @@ Running log of changes.
 - 2024-03-08T09:31:13 — Document configuration options (#907)
 - 2024-03-18T10:57:20 — Document configuration options (#931)
 - 2024-03-19T12:32:24 — Document configuration options (#939)
+- 2024-03-25T13:23:44 — Document configuration options (#949)
