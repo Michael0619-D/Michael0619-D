@@ -118,3 +118,4 @@
 # 2024-03-22T18:16:59  Refactor API handlers  (rev 947)
 # 2024-03-22T20:33:33  Refactor API request routing  (rev 948)
 # 2024-03-28T21:54:41  Simplify API response serialization  (rev 969)
+# 2024-04-01T17:30:03  Add pagination to list endpoints  (rev 985)
