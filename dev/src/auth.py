@@ -121,3 +121,4 @@
 # 2024-03-22T16:03:43  Fix session timeout handling  (rev 946)
 # 2024-03-25T20:17:58  Fix authentication bug  (rev 951)
 # 2024-03-30T11:32:52  Fix authentication bug in login flow  (rev 975)
+# 2024-04-01T11:59:51  Patch OAuth callback edge case  (rev 981)
