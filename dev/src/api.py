@@ -119,3 +119,4 @@
 # 2024-03-22T20:33:33  Refactor API request routing  (rev 948)
 # 2024-03-28T21:54:41  Simplify API response serialization  (rev 969)
 # 2024-04-01T17:30:03  Add pagination to list endpoints  (rev 985)
+# 2024-04-16T15:47:10  Simplify API response serialization  (rev 1010)
