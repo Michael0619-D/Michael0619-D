@@ -120,3 +120,4 @@ Running log of changes.
 - 2024-04-11T19:18:43 — Fix typos in documentation (#995)
 - 2024-04-13T19:44:45 — Document configuration options (#1001)
 - 2024-04-15T16:47:04 — Fix typos in documentation (#1005)
+- 2024-04-16T14:40:41 — Fix typos in documentation (#1009)
