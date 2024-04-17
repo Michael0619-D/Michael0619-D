@@ -120,3 +120,4 @@
 # 2024-04-15T10:04:55  Fix layout shift on load  (rev 1003)
 # 2024-04-15T11:48:33  Improve mobile responsiveness  (rev 1004)
 # 2024-04-15T17:40:28  Debounce search input  (rev 1006)
+# 2024-04-17T17:33:16  Polish loading states  (rev 1018)
