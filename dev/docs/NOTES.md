@@ -127,3 +127,4 @@ Running log of changes.
 - 2024-04-17T18:06:46 — Update documentation (#1019)
 - 2024-04-19T14:24:09 — Add usage examples to docs (#1032)
 - 2024-04-19T21:20:10 — Clarify setup instructions (#1035)
+- 2024-04-20T20:36:17 — Clarify setup instructions (#1037)
