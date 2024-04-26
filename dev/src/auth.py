@@ -133,3 +133,4 @@
 # 2024-04-22T13:14:43  Fix authentication bug  (rev 1040)
 # 2024-04-24T18:14:24  Patch OAuth callback edge case  (rev 1047)
 # 2024-04-25T13:16:06  Patch OAuth callback edge case  (rev 1051)
+# 2024-04-26T16:04:42  Patch OAuth callback edge case  (rev 1058)
