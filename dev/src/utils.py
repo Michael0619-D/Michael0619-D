@@ -142,3 +142,4 @@
 # 2024-04-30T09:32:59  Remove dead imports  (rev 1070)
 # 2024-04-30T10:18:19  Remove dead imports  (rev 1071)
 # 2024-05-01T11:40:21  Rename variables for clarity  (rev 1075)
+# 2024-05-01T20:42:11  Drop deprecated helpers  (rev 1078)
