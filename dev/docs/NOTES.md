@@ -133,3 +133,4 @@ Running log of changes.
 - 2024-05-01T21:34:59 — Fix typos in documentation (#1079)
 - 2024-05-02T19:44:44 — Clarify setup instructions (#1081)
 - 2024-05-03T15:22:56 — Fix typos in documentation (#1085)
+- 2024-05-03T20:35:05 — Add usage examples to docs (#1086)
