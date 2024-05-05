@@ -129,3 +129,4 @@
 # 2024-04-26T17:49:52  Fix layout shift on load  (rev 1060)
 # 2024-04-29T15:32:18  Fix layout shift on load  (rev 1068)
 # 2024-05-05T13:22:02  Fix layout shift on load  (rev 1091)
+# 2024-05-05T15:58:30  Improve UI responsiveness  (rev 1092)
