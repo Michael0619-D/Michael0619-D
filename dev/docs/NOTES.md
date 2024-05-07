@@ -137,3 +137,4 @@ Running log of changes.
 - 2024-05-03T21:16:16 — Update documentation (#1087)
 - 2024-05-06T09:57:02 — Clarify setup instructions (#1094)
 - 2024-05-07T14:45:37 — Clarify setup instructions (#1100)
+- 2024-05-07T21:19:30 — Document configuration options (#1103)
