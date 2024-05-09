@@ -143,3 +143,4 @@
 # 2024-05-01T13:30:23  Reduce N+1 queries in reports  (rev 1076)
 # 2024-05-02T13:44:33  Optimize database queries  (rev 1080)
 # 2024-05-06T12:20:13  Reduce N+1 queries in reports  (rev 1097)
+# 2024-05-09T18:01:55  Add index to speed up lookups  (rev 1108)
