@@ -148,3 +148,4 @@
 # 2024-05-07T17:47:51  Add regression test for auth flow  (rev 1102)
 # 2024-05-09T12:25:28  Add unit tests  (rev 1104)
 # 2024-05-09T15:14:20  Add unit tests  (rev 1106)
+# 2024-05-14T19:16:29  Stabilize flaky integration test  (rev 1120)
