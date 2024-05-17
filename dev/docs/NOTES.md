@@ -141,3 +141,4 @@ Running log of changes.
 - 2024-05-09T20:17:10 — Fix typos in documentation (#1109)
 - 2024-05-14T17:31:03 — Fix typos in documentation (#1119)
 - 2024-05-16T11:30:36 — Fix typos in documentation (#1125)
+- 2024-05-17T20:05:07 — Update documentation (#1130)
