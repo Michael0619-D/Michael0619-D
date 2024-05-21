@@ -148,3 +148,4 @@
 # 2024-05-13T16:36:36  Add index to speed up lookups  (rev 1116)
 # 2024-05-16T11:09:29  Reduce N+1 queries in reports  (rev 1124)
 # 2024-05-20T12:53:08  Add index to speed up lookups  (rev 1138)
+# 2024-05-21T18:05:47  Add index to speed up lookups  (rev 1143)
