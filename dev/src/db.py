@@ -150,3 +150,4 @@
 # 2024-05-20T12:53:08  Add index to speed up lookups  (rev 1138)
 # 2024-05-21T18:05:47  Add index to speed up lookups  (rev 1143)
 # 2024-05-23T13:29:43  Optimize database queries  (rev 1148)
+# 2024-05-23T15:55:06  Add index to speed up lookups  (rev 1150)
