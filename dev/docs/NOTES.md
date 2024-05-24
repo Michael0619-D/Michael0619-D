@@ -145,3 +145,4 @@ Running log of changes.
 - 2024-05-18T16:43:00 — Document configuration options (#1132)
 - 2024-05-20T19:03:08 — Document configuration options (#1139)
 - 2024-05-23T20:18:45 — Document configuration options (#1152)
+- 2024-05-24T17:20:59 — Add usage examples to docs (#1159)
