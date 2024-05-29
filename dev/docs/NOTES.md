@@ -149,3 +149,4 @@ Running log of changes.
 - 2024-05-24T21:11:33 — Add usage examples to docs (#1162)
 - 2024-05-26T17:13:17 — Fix typos in documentation (#1166)
 - 2024-05-28T20:59:45 — Document configuration options (#1175)
+- 2024-05-29T18:08:53 — Update documentation (#1178)
