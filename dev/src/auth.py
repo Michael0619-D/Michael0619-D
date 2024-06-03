@@ -152,3 +152,4 @@
 # 2024-05-29T21:45:12  Patch OAuth callback edge case  (rev 1180)
 # 2024-05-30T14:49:26  Handle expired tokens on refresh  (rev 1186)
 # 2024-05-30T14:58:36  Fix authentication bug  (rev 1187)
+# 2024-06-03T21:03:20  Fix authentication bug  (rev 1199)
