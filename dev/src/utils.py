@@ -159,3 +159,4 @@
 # 2024-05-30T09:37:25  Tidy up module structure  (rev 1181)
 # 2024-05-30T10:16:41  Cleanup unused code  (rev 1182)
 # 2024-06-05T14:36:15  Cleanup unused code  (rev 1210)
+# 2024-06-06T12:34:12  Drop deprecated helpers  (rev 1216)
