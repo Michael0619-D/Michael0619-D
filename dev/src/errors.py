@@ -137,3 +137,4 @@
 # 2024-06-03T20:19:14  Improve error handling  (rev 1198)
 # 2024-06-05T21:12:34  Wrap external calls with retries  (rev 1214)
 # 2024-06-07T11:21:35  Wrap external calls with retries  (rev 1218)
+# 2024-06-07T20:54:43  Return structured error responses  (rev 1221)
