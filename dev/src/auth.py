@@ -157,3 +157,4 @@
 # 2024-06-04T17:08:06  Fix authentication bug  (rev 1207)
 # 2024-06-05T16:51:23  Fix authentication bug  (rev 1212)
 # 2024-06-05T20:13:30  Fix session timeout handling  (rev 1213)
+# 2024-06-10T12:37:42  Handle expired tokens on refresh  (rev 1228)
