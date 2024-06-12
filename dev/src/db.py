@@ -158,3 +158,4 @@
 # 2024-06-08T13:49:22  Optimize database queries  (rev 1222)
 # 2024-06-09T18:37:55  Batch database writes  (rev 1226)
 # 2024-06-10T20:52:02  Optimize database queries  (rev 1231)
+# 2024-06-12T18:15:13  Reduce N+1 queries in reports  (rev 1243)
