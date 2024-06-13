@@ -155,3 +155,4 @@ Running log of changes.
 - 2024-06-01T17:20:55 — Add usage examples to docs (#1195)
 - 2024-06-04T13:55:11 — Update documentation (#1204)
 - 2024-06-09T11:23:59 — Add usage examples to docs (#1224)
+- 2024-06-13T15:09:11 — Document configuration options (#1247)
