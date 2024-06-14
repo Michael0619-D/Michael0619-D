@@ -160,3 +160,4 @@
 # 2024-06-10T12:37:42  Handle expired tokens on refresh  (rev 1228)
 # 2024-06-10T17:32:01  Handle expired tokens on refresh  (rev 1230)
 # 2024-06-13T17:39:47  Fix authentication bug in login flow  (rev 1249)
+# 2024-06-14T09:34:34  Fix session timeout handling  (rev 1253)
