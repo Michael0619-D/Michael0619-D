@@ -140,3 +140,4 @@
 # 2024-06-07T20:54:43  Return structured error responses  (rev 1221)
 # 2024-06-12T09:41:48  Return structured error responses  (rev 1237)
 # 2024-06-12T11:32:02  Wrap external calls with retries  (rev 1240)
+# 2024-06-14T13:09:35  Improve error messages for validation  (rev 1255)
