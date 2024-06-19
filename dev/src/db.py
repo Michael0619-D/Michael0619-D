@@ -162,3 +162,4 @@
 # 2024-06-13T11:37:43  Reduce N+1 queries in reports  (rev 1245)
 # 2024-06-13T18:18:21  Batch database writes  (rev 1250)
 # 2024-06-18T09:14:51  Optimize database queries  (rev 1265)
+# 2024-06-19T14:51:03  Add index to speed up lookups  (rev 1273)
