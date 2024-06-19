@@ -163,3 +163,4 @@
 # 2024-06-14T09:34:34  Fix session timeout handling  (rev 1253)
 # 2024-06-16T09:30:55  Handle expired tokens on refresh  (rev 1257)
 # 2024-06-17T10:56:22  Patch OAuth callback edge case  (rev 1260)
+# 2024-06-19T11:49:39  Patch OAuth callback edge case  (rev 1269)
