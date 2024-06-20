@@ -149,3 +149,4 @@
 # 2024-06-14T12:52:36  Split monolithic API handler  (rev 1254)
 # 2024-06-16T15:11:43  Simplify API response serialization  (rev 1259)
 # 2024-06-18T15:21:25  Refactor API handlers  (rev 1267)
+# 2024-06-20T16:03:55  Simplify API response serialization  (rev 1276)
