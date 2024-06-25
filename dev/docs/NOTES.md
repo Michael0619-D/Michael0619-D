@@ -161,3 +161,4 @@ Running log of changes.
 - 2024-06-20T13:55:58 — Add usage examples to docs (#1275)
 - 2024-06-24T10:07:46 — Update documentation (#1284)
 - 2024-06-25T12:45:05 — Fix typos in documentation (#1288)
+- 2024-06-25T19:10:19 — Clarify setup instructions (#1291)
