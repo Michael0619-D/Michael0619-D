@@ -166,3 +166,4 @@
 # 2024-06-19T11:49:39  Patch OAuth callback edge case  (rev 1269)
 # 2024-06-19T14:17:07  Patch OAuth callback edge case  (rev 1272)
 # 2024-06-26T15:55:09  Patch OAuth callback edge case  (rev 1295)
+# 2024-06-26T20:00:22  Fix session timeout handling  (rev 1296)
