@@ -165,3 +165,4 @@ Running log of changes.
 - 2024-06-27T09:39:53 — Fix typos in documentation (#1297)
 - 2024-06-27T13:59:22 — Fix typos in documentation (#1298)
 - 2024-06-28T10:54:54 — Document configuration options (#1302)
+- 2024-06-28T12:07:50 — Add usage examples to docs (#1303)
