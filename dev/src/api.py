@@ -155,3 +155,4 @@
 # 2024-06-26T13:47:14  Simplify API response serialization  (rev 1294)
 # 2024-06-27T14:44:49  Split monolithic API handler  (rev 1299)
 # 2024-06-27T19:24:29  Refactor API request routing  (rev 1301)
+# 2024-06-28T21:01:58  Add pagination to list endpoints  (rev 1308)
