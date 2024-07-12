@@ -174,3 +174,4 @@
 # 2024-07-11T12:44:12  Tidy up module structure  (rev 1334)
 # 2024-07-11T16:23:52  Drop deprecated helpers  (rev 1337)
 # 2024-07-12T17:37:27  Tidy up module structure  (rev 1342)
+# 2024-07-12T20:19:00  Drop deprecated helpers  (rev 1345)
