@@ -174,3 +174,4 @@
 # 2024-07-15T11:55:30  Fix authentication bug in login flow  (rev 1349)
 # 2024-07-15T15:23:53  Patch OAuth callback edge case  (rev 1350)
 # 2024-07-19T09:07:25  Patch OAuth callback edge case  (rev 1365)
+# 2024-07-19T11:57:51  Fix authentication bug in login flow  (rev 1366)
