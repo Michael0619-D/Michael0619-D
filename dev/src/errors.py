@@ -158,3 +158,4 @@
 # 2024-07-17T21:27:11  Add graceful degradation on failure  (rev 1362)
 # 2024-07-18T09:31:14  Add graceful degradation on failure  (rev 1363)
 # 2024-07-19T18:12:13  Wrap external calls with retries  (rev 1370)
+# 2024-07-23T10:13:02  Improve error messages for validation  (rev 1374)
