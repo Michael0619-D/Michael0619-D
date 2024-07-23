@@ -180,3 +180,4 @@
 # 2024-07-16T19:36:05  Tidy up module structure  (rev 1357)
 # 2024-07-17T17:44:58  Remove dead imports  (rev 1360)
 # 2024-07-19T15:22:40  Cleanup unused code  (rev 1368)
+# 2024-07-23T17:24:50  Rename variables for clarity  (rev 1378)
