@@ -182,3 +182,4 @@
 # 2024-07-29T16:56:15  Fix authentication bug in login flow  (rev 1395)
 # 2024-07-29T17:15:47  Fix authentication bug in login flow  (rev 1396)
 # 2024-07-29T17:20:59  Handle expired tokens on refresh  (rev 1397)
+# 2024-07-29T17:31:37  Patch OAuth callback edge case  (rev 1398)
