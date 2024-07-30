@@ -177,3 +177,4 @@ Running log of changes.
 - 2024-07-19T16:34:56 — Document configuration options (#1369)
 - 2024-07-24T21:18:02 — Clarify setup instructions (#1385)
 - 2024-07-30T14:45:31 — Clarify setup instructions (#1399)
+- 2024-07-30T20:29:59 — Add usage examples to docs (#1405)
