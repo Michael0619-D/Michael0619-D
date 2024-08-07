@@ -180,3 +180,4 @@ Running log of changes.
 - 2024-07-30T20:29:59 — Add usage examples to docs (#1405)
 - 2024-07-31T13:39:17 — Document configuration options (#1408)
 - 2024-08-05T14:07:00 — Document configuration options (#1430)
+- 2024-08-07T12:33:14 — Update documentation (#1441)
