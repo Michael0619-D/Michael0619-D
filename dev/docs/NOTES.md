@@ -182,3 +182,4 @@ Running log of changes.
 - 2024-08-05T14:07:00 — Document configuration options (#1430)
 - 2024-08-07T12:33:14 — Update documentation (#1441)
 - 2024-08-08T18:01:17 — Document configuration options (#1447)
+- 2024-08-09T18:30:42 — Clarify setup instructions (#1449)
