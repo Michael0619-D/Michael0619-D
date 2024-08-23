@@ -199,3 +199,4 @@
 # 2024-08-12T14:54:35  Rename variables for clarity  (rev 1452)
 # 2024-08-14T18:14:51  Drop deprecated helpers  (rev 1462)
 # 2024-08-14T21:05:47  Cleanup unused code  (rev 1463)
+# 2024-08-23T19:20:00  Drop deprecated helpers  (rev 1489)
