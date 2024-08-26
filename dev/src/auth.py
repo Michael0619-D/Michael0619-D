@@ -189,3 +189,4 @@
 # 2024-08-18T14:18:28  Handle expired tokens on refresh  (rev 1473)
 # 2024-08-20T16:27:27  Fix authentication bug  (rev 1481)
 # 2024-08-23T18:10:37  Fix authentication bug in login flow  (rev 1488)
+# 2024-08-26T15:28:08  Handle expired tokens on refresh  (rev 1490)
