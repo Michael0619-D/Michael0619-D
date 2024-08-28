@@ -191,3 +191,4 @@ Running log of changes.
 - 2024-08-19T15:33:16 — Add usage examples to docs (#1477)
 - 2024-08-27T09:03:04 — Update documentation (#1494)
 - 2024-08-27T19:33:10 — Fix typos in documentation (#1497)
+- 2024-08-28T20:31:24 — Fix typos in documentation (#1503)
