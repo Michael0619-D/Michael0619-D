@@ -204,3 +204,4 @@
 # 2024-08-28T13:56:27  Cleanup unused code  (rev 1500)
 # 2024-08-28T20:54:09  Cleanup unused code  (rev 1504)
 # 2024-08-28T21:21:36  Drop deprecated helpers  (rev 1505)
+# 2024-08-29T09:15:35  Drop deprecated helpers  (rev 1506)
