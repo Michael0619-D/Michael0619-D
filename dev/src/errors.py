@@ -174,3 +174,4 @@
 # 2024-08-17T16:46:36  Improve error handling  (rev 1469)
 # 2024-08-20T18:34:31  Return structured error responses  (rev 1483)
 # 2024-08-23T15:06:29  Improve error handling  (rev 1487)
+# 2024-08-30T21:00:29  Return structured error responses  (rev 1514)
