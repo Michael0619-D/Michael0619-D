@@ -194,3 +194,4 @@
 # 2024-09-01T13:29:37  Fix session timeout handling  (rev 1517)
 # 2024-09-02T11:55:34  Handle expired tokens on refresh  (rev 1520)
 # 2024-09-02T14:30:39  Fix session timeout handling  (rev 1522)
+# 2024-09-03T15:27:57  Fix authentication bug in login flow  (rev 1527)
