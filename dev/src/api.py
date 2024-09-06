@@ -180,3 +180,4 @@
 # 2024-09-03T09:50:06  Simplify API response serialization  (rev 1525)
 # 2024-09-04T17:04:51  Refactor API handlers  (rev 1529)
 # 2024-09-06T14:49:46  Refactor API handlers  (rev 1538)
+# 2024-09-06T16:21:45  Split monolithic API handler  (rev 1539)
