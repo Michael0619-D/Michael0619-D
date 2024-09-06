@@ -196,3 +196,4 @@
 # 2024-09-02T14:30:39  Fix session timeout handling  (rev 1522)
 # 2024-09-03T15:27:57  Fix authentication bug in login flow  (rev 1527)
 # 2024-09-06T10:34:36  Patch OAuth callback edge case  (rev 1537)
+# 2024-09-06T19:05:15  Fix authentication bug  (rev 1541)
