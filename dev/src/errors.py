@@ -176,3 +176,4 @@
 # 2024-08-23T15:06:29  Improve error handling  (rev 1487)
 # 2024-08-30T21:00:29  Return structured error responses  (rev 1514)
 # 2024-09-09T14:28:50  Return structured error responses  (rev 1546)
+# 2024-09-13T12:54:57  Add graceful degradation on failure  (rev 1571)
