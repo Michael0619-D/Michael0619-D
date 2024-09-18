@@ -198,3 +198,4 @@ Running log of changes.
 - 2024-09-10T18:32:45 — Update documentation (#1554)
 - 2024-09-11T13:06:12 — Add usage examples to docs (#1557)
 - 2024-09-17T20:45:24 — Add usage examples to docs (#1585)
+- 2024-09-18T10:06:46 — Fix typos in documentation (#1587)
