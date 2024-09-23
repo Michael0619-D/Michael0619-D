@@ -184,3 +184,4 @@
 # 2024-09-12T16:02:29  Improve UI responsiveness  (rev 1568)
 # 2024-09-12T17:18:21  Improve UI responsiveness  (rev 1569)
 # 2024-09-18T12:12:21  Improve mobile responsiveness  (rev 1589)
+# 2024-09-23T10:19:05  Debounce search input  (rev 1602)
