@@ -203,3 +203,4 @@ Running log of changes.
 - 2024-09-19T21:07:19 — Clarify setup instructions (#1597)
 - 2024-09-23T21:29:39 — Update documentation (#1609)
 - 2024-09-26T13:59:21 — Update documentation (#1622)
+- 2024-09-26T19:56:05 — Add usage examples to docs (#1623)
