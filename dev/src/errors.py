@@ -191,3 +191,4 @@
 # 2024-09-23T20:01:57  Add graceful degradation on failure  (rev 1607)
 # 2024-09-26T11:47:46  Improve error handling  (rev 1619)
 # 2024-09-26T21:21:59  Improve error handling  (rev 1625)
+# 2024-09-27T17:15:27  Improve error messages for validation  (rev 1629)
