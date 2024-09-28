@@ -202,3 +202,4 @@
 # 2024-09-23T21:14:24  Batch database writes  (rev 1608)
 # 2024-09-25T19:44:23  Add index to speed up lookups  (rev 1617)
 # 2024-09-27T13:36:31  Cache frequent read queries  (rev 1627)
+# 2024-09-28T10:52:34  Reduce N+1 queries in reports  (rev 1631)
