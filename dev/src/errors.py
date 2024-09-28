@@ -192,3 +192,4 @@
 # 2024-09-26T11:47:46  Improve error handling  (rev 1619)
 # 2024-09-26T21:21:59  Improve error handling  (rev 1625)
 # 2024-09-27T17:15:27  Improve error messages for validation  (rev 1629)
+# 2024-09-28T12:45:20  Return structured error responses  (rev 1633)
