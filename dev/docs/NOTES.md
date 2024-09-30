@@ -205,3 +205,4 @@ Running log of changes.
 - 2024-09-26T13:59:21 — Update documentation (#1622)
 - 2024-09-26T19:56:05 — Add usage examples to docs (#1623)
 - 2024-09-28T20:34:39 — Clarify setup instructions (#1636)
+- 2024-09-30T15:00:23 — Add usage examples to docs (#1641)
