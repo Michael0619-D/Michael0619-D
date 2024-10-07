@@ -208,3 +208,4 @@
 # 2024-10-03T15:15:16  Batch database writes  (rev 1660)
 # 2024-10-04T12:55:10  Optimize database queries  (rev 1665)
 # 2024-10-07T11:59:18  Optimize database queries  (rev 1669)
+# 2024-10-07T16:45:43  Add index to speed up lookups  (rev 1670)
