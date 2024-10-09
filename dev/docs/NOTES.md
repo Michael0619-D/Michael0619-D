@@ -211,3 +211,4 @@ Running log of changes.
 - 2024-10-03T20:49:09 — Update documentation (#1662)
 - 2024-10-04T09:44:57 — Update documentation (#1663)
 - 2024-10-04T12:06:30 — Clarify setup instructions (#1664)
+- 2024-10-09T20:29:02 — Update documentation (#1682)
