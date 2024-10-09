@@ -221,3 +221,4 @@
 # 2024-10-03T13:52:21  Cleanup unused code  (rev 1658)
 # 2024-10-07T19:49:37  Rename variables for clarity  (rev 1672)
 # 2024-10-07T21:04:39  Cleanup unused code  (rev 1673)
+# 2024-10-09T15:52:31  Drop deprecated helpers  (rev 1677)
