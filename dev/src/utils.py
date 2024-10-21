@@ -227,3 +227,4 @@
 # 2024-10-11T19:11:13  Tidy up module structure  (rev 1692)
 # 2024-10-18T14:12:50  Remove dead imports  (rev 1711)
 # 2024-10-21T15:04:51  Drop deprecated helpers  (rev 1713)
+# 2024-10-21T16:22:10  Rename variables for clarity  (rev 1715)
