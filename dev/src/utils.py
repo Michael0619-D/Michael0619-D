@@ -226,3 +226,4 @@
 # 2024-10-11T09:04:54  Remove dead imports  (rev 1687)
 # 2024-10-11T19:11:13  Tidy up module structure  (rev 1692)
 # 2024-10-18T14:12:50  Remove dead imports  (rev 1711)
+# 2024-10-21T15:04:51  Drop deprecated helpers  (rev 1713)
