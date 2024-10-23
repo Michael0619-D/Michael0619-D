@@ -220,3 +220,4 @@
 # 2024-10-11T18:55:42  Fix authentication bug  (rev 1691)
 # 2024-10-15T14:27:32  Fix session timeout handling  (rev 1704)
 # 2024-10-15T18:09:51  Patch OAuth callback edge case  (rev 1705)
+# 2024-10-23T16:50:30  Patch OAuth callback edge case  (rev 1724)
