@@ -201,3 +201,4 @@
 # 2024-10-11T20:01:01  Wrap external calls with retries  (rev 1693)
 # 2024-10-14T19:34:39  Add graceful degradation on failure  (rev 1700)
 # 2024-10-23T15:20:22  Wrap external calls with retries  (rev 1723)
+# 2024-10-23T19:29:03  Return structured error responses  (rev 1725)
