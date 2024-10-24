@@ -222,3 +222,4 @@
 # 2024-10-15T18:09:51  Patch OAuth callback edge case  (rev 1705)
 # 2024-10-23T16:50:30  Patch OAuth callback edge case  (rev 1724)
 # 2024-10-24T13:37:21  Fix session timeout handling  (rev 1729)
+# 2024-10-24T17:47:50  Handle expired tokens on refresh  (rev 1732)
