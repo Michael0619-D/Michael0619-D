@@ -203,3 +203,4 @@
 # 2024-10-23T10:40:40  Refactor API handlers  (rev 1721)
 # 2024-10-23T13:00:55  Add pagination to list endpoints  (rev 1722)
 # 2024-10-28T13:03:03  Simplify API response serialization  (rev 1741)
+# 2024-10-28T16:27:57  Refactor API handlers  (rev 1744)
