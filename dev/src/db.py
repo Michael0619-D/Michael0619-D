@@ -216,3 +216,4 @@
 # 2024-10-14T16:26:51  Cache frequent read queries  (rev 1698)
 # 2024-10-24T15:13:14  Batch database writes  (rev 1731)
 # 2024-10-29T13:54:23  Batch database writes  (rev 1748)
+# 2024-10-31T11:19:21  Add index to speed up lookups  (rev 1755)
