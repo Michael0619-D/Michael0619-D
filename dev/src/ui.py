@@ -204,3 +204,4 @@
 # 2024-11-01T10:55:44  Debounce search input  (rev 1761)
 # 2024-11-01T17:34:49  Improve UI responsiveness  (rev 1765)
 # 2024-11-04T17:09:51  Debounce search input  (rev 1772)
+# 2024-11-04T20:34:45  Fix layout shift on load  (rev 1774)
