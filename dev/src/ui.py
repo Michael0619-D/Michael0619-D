@@ -206,3 +206,4 @@
 # 2024-11-04T17:09:51  Debounce search input  (rev 1772)
 # 2024-11-04T20:34:45  Fix layout shift on load  (rev 1774)
 # 2024-11-05T13:48:06  Fix layout shift on load  (rev 1777)
+# 2024-11-08T18:02:27  Polish loading states  (rev 1795)
