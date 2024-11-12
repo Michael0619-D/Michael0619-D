@@ -231,3 +231,4 @@
 # 2024-11-06T18:10:46  Handle expired tokens on refresh  (rev 1783)
 # 2024-11-07T14:23:48  Fix session timeout handling  (rev 1788)
 # 2024-11-12T11:15:57  Patch OAuth callback edge case  (rev 1802)
+# 2024-11-12T12:51:52  Fix authentication bug  (rev 1804)
