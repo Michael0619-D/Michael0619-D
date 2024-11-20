@@ -224,3 +224,4 @@
 # 2024-11-11T15:33:00  Cache frequent read queries  (rev 1800)
 # 2024-11-19T12:07:29  Add index to speed up lookups  (rev 1814)
 # 2024-11-20T16:51:49  Reduce N+1 queries in reports  (rev 1820)
+# 2024-11-20T21:06:49  Reduce N+1 queries in reports  (rev 1822)
