@@ -230,3 +230,4 @@ Running log of changes.
 - 2024-11-12T15:00:16 — Fix typos in documentation (#1805)
 - 2024-11-20T17:49:39 — Update documentation (#1821)
 - 2024-11-21T13:41:42 — Fix typos in documentation (#1825)
+- 2024-11-25T19:03:06 — Document configuration options (#1827)
