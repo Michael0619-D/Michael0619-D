@@ -246,3 +246,4 @@
 # 2024-11-15T18:20:05  Rename variables for clarity  (rev 1810)
 # 2024-11-17T19:16:43  Rename variables for clarity  (rev 1811)
 # 2024-11-19T09:44:36  Rename variables for clarity  (rev 1813)
+# 2024-11-25T19:53:17  Drop deprecated helpers  (rev 1829)
