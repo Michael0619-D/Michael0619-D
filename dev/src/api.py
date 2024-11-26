@@ -213,3 +213,4 @@
 # 2024-11-21T09:27:41  Refactor API handlers  (rev 1823)
 # 2024-11-21T12:09:07  Add pagination to list endpoints  (rev 1824)
 # 2024-11-25T20:57:03  Refactor API request routing  (rev 1830)
+# 2024-11-26T19:00:08  Simplify API response serialization  (rev 1834)
