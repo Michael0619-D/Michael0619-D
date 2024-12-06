@@ -231,3 +231,4 @@
 # 2024-12-04T14:10:50  Cache frequent read queries  (rev 1853)
 # 2024-12-04T18:27:11  Add index to speed up lookups  (rev 1855)
 # 2024-12-06T14:17:38  Optimize database queries  (rev 1870)
+# 2024-12-06T20:37:02  Add index to speed up lookups  (rev 1874)
