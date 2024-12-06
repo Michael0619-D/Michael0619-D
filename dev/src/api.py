@@ -219,3 +219,4 @@
 # 2024-11-30T14:16:21  Add pagination to list endpoints  (rev 1839)
 # 2024-12-03T17:55:09  Refactor API handlers  (rev 1848)
 # 2024-12-04T21:29:57  Add pagination to list endpoints  (rev 1858)
+# 2024-12-06T17:00:34  Add pagination to list endpoints  (rev 1871)
