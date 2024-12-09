@@ -221,3 +221,4 @@
 # 2024-12-04T21:29:57  Add pagination to list endpoints  (rev 1858)
 # 2024-12-06T17:00:34  Add pagination to list endpoints  (rev 1871)
 # 2024-12-09T13:10:11  Add pagination to list endpoints  (rev 1875)
+# 2024-12-09T21:04:57  Simplify API response serialization  (rev 1879)
