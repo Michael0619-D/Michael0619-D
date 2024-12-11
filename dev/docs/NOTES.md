@@ -240,3 +240,4 @@ Running log of changes.
 - 2024-12-06T13:43:15 — Fix typos in documentation (#1869)
 - 2024-12-09T13:13:36 — Add usage examples to docs (#1876)
 - 2024-12-11T09:25:40 — Clarify setup instructions (#1880)
+- 2024-12-11T16:36:31 — Fix typos in documentation (#1882)
