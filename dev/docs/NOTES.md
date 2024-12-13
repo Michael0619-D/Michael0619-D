@@ -242,3 +242,4 @@ Running log of changes.
 - 2024-12-11T09:25:40 — Clarify setup instructions (#1880)
 - 2024-12-11T16:36:31 — Fix typos in documentation (#1882)
 - 2024-12-13T11:17:04 — Document configuration options (#1886)
+- 2024-12-13T12:55:33 — Clarify setup instructions (#1887)
