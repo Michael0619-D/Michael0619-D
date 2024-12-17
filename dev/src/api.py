@@ -225,3 +225,4 @@
 # 2024-12-13T09:56:26  Simplify API response serialization  (rev 1884)
 # 2024-12-13T16:44:43  Refactor API request routing  (rev 1888)
 # 2024-12-16T20:07:32  Simplify API response serialization  (rev 1893)
+# 2024-12-17T12:00:42  Split monolithic API handler  (rev 1897)
