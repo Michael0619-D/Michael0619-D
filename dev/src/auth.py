@@ -242,3 +242,4 @@
 # 2024-12-18T18:46:19  Fix authentication bug  (rev 1906)
 # 2024-12-20T13:41:14  Fix authentication bug  (rev 1916)
 # 2024-12-21T11:09:07  Fix session timeout handling  (rev 1921)
+# 2024-12-22T15:33:20  Patch OAuth callback edge case  (rev 1927)
