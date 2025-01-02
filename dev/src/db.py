@@ -238,3 +238,4 @@
 # 2024-12-20T17:50:47  Cache frequent read queries  (rev 1918)
 # 2024-12-22T11:06:00  Batch database writes  (rev 1925)
 # 2024-12-23T19:49:51  Optimize database queries  (rev 1932)
+# 2025-01-02T21:49:58  Reduce N+1 queries in reports  (rev 1937)
