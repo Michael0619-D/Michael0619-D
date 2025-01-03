@@ -239,3 +239,4 @@
 # 2024-12-22T11:06:00  Batch database writes  (rev 1925)
 # 2024-12-23T19:49:51  Optimize database queries  (rev 1932)
 # 2025-01-02T21:49:58  Reduce N+1 queries in reports  (rev 1937)
+# 2025-01-03T11:04:27  Add index to speed up lookups  (rev 1938)
