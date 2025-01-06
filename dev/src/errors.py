@@ -226,3 +226,4 @@
 # 2024-12-17T18:37:30  Return structured error responses  (rev 1902)
 # 2024-12-19T13:24:29  Return structured error responses  (rev 1910)
 # 2024-12-22T10:48:10  Wrap external calls with retries  (rev 1924)
+# 2025-01-06T09:58:02  Return structured error responses  (rev 1945)
