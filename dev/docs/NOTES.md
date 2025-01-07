@@ -248,3 +248,4 @@ Running log of changes.
 - 2025-01-06T11:52:30 — Clarify setup instructions (#1947)
 - 2025-01-07T15:35:26 — Fix typos in documentation (#1953)
 - 2025-01-07T18:55:36 — Document configuration options (#1954)
+- 2025-01-07T19:00:39 — Add usage examples to docs (#1955)
