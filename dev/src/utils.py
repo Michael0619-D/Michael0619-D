@@ -268,3 +268,4 @@
 # 2025-01-10T20:17:39  Drop deprecated helpers  (rev 1963)
 # 2025-01-14T11:56:09  Cleanup unused code  (rev 1972)
 # 2025-01-14T13:29:32  Remove dead imports  (rev 1974)
+# 2025-01-14T20:14:50  Drop deprecated helpers  (rev 1976)
