@@ -243,3 +243,4 @@
 # 2025-01-10T20:35:52  Reduce N+1 queries in reports  (rev 1964)
 # 2025-01-13T15:24:51  Add index to speed up lookups  (rev 1968)
 # 2025-01-14T09:44:04  Cache frequent read queries  (rev 1971)
+# 2025-01-18T13:45:19  Batch database writes  (rev 1980)
