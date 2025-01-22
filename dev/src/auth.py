@@ -249,3 +249,4 @@
 # 2025-01-13T19:45:07  Handle expired tokens on refresh  (rev 1969)
 # 2025-01-13T20:49:49  Fix authentication bug  (rev 1970)
 # 2025-01-16T13:32:47  Handle expired tokens on refresh  (rev 1978)
+# 2025-01-22T11:56:22  Fix authentication bug in login flow  (rev 1982)
