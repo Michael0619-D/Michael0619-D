@@ -245,3 +245,4 @@
 # 2025-01-14T09:44:04  Cache frequent read queries  (rev 1971)
 # 2025-01-18T13:45:19  Batch database writes  (rev 1980)
 # 2025-01-22T10:14:14  Batch database writes  (rev 1981)
+# 2025-01-23T15:33:36  Add index to speed up lookups  (rev 1986)
