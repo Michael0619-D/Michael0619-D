@@ -233,3 +233,4 @@
 # 2025-01-28T09:14:04  Fix layout shift on load  (rev 1992)
 # 2025-01-31T12:59:00  Debounce search input  (rev 2004)
 # 2025-01-31T15:04:04  Fix layout shift on load  (rev 2005)
+# 2025-01-31T21:17:22  Improve mobile responsiveness  (rev 2008)
