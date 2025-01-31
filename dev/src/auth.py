@@ -254,3 +254,4 @@
 # 2025-01-24T10:14:39  Fix session timeout handling  (rev 1988)
 # 2025-01-27T12:49:14  Patch OAuth callback edge case  (rev 1989)
 # 2025-01-29T13:14:06  Fix authentication bug in login flow  (rev 1998)
+# 2025-01-31T17:30:19  Fix authentication bug  (rev 2006)
