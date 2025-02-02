@@ -255,3 +255,4 @@ Running log of changes.
 - 2025-01-29T14:35:15 — Add usage examples to docs (#1999)
 - 2025-01-30T18:32:50 — Document configuration options (#2000)
 - 2025-01-31T10:10:21 — Update documentation (#2002)
+- 2025-02-02T17:28:56 — Clarify setup instructions (#2011)
