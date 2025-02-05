@@ -256,3 +256,4 @@ Running log of changes.
 - 2025-01-30T18:32:50 — Document configuration options (#2000)
 - 2025-01-31T10:10:21 — Update documentation (#2002)
 - 2025-02-02T17:28:56 — Clarify setup instructions (#2011)
+- 2025-02-05T14:26:03 — Add usage examples to docs (#2020)
