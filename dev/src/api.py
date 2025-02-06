@@ -240,3 +240,4 @@
 # 2025-01-31T09:20:04  Split monolithic API handler  (rev 2001)
 # 2025-01-31T10:48:24  Refactor API handlers  (rev 2003)
 # 2025-02-01T18:46:00  Simplify API response serialization  (rev 2010)
+# 2025-02-06T12:24:39  Refactor API request routing  (rev 2024)
