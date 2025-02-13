@@ -260,3 +260,4 @@ Running log of changes.
 - 2025-02-11T19:11:27 — Add usage examples to docs (#2040)
 - 2025-02-12T14:22:33 — Update documentation (#2043)
 - 2025-02-12T15:38:48 — Fix typos in documentation (#2045)
+- 2025-02-13T17:30:44 — Update documentation (#2049)
