@@ -262,3 +262,4 @@ Running log of changes.
 - 2025-02-12T15:38:48 — Fix typos in documentation (#2045)
 - 2025-02-13T17:30:44 — Update documentation (#2049)
 - 2025-02-13T17:52:51 — Update documentation (#2050)
+- 2025-02-14T09:28:38 — Document configuration options (#2052)
