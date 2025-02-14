@@ -272,3 +272,4 @@
 # 2025-02-05T14:58:54  Drop deprecated helpers  (rev 2021)
 # 2025-02-11T13:34:12  Cleanup unused code  (rev 2037)
 # 2025-02-11T21:36:42  Cleanup unused code  (rev 2041)
+# 2025-02-14T20:45:22  Rename variables for clarity  (rev 2053)
