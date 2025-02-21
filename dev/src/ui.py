@@ -237,3 +237,4 @@
 # 2025-02-10T17:20:32  Fix layout shift on load  (rev 2032)
 # 2025-02-10T19:13:35  Fix layout shift on load  (rev 2034)
 # 2025-02-18T21:01:31  Fix layout shift on load  (rev 2061)
+# 2025-02-21T16:00:12  Polish loading states  (rev 2068)
