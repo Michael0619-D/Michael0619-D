@@ -251,3 +251,4 @@
 # 2025-02-17T11:16:19  Refactor API handlers  (rev 2056)
 # 2025-02-17T16:52:32  Simplify API response serialization  (rev 2057)
 # 2025-02-24T10:35:04  Simplify API response serialization  (rev 2075)
+# 2025-02-24T12:54:47  Add pagination to list endpoints  (rev 2076)
