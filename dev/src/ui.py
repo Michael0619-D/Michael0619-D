@@ -240,3 +240,4 @@
 # 2025-02-21T16:00:12  Polish loading states  (rev 2068)
 # 2025-02-23T20:04:09  Improve mobile responsiveness  (rev 2074)
 # 2025-02-24T21:58:11  Improve UI responsiveness  (rev 2081)
+# 2025-02-25T11:46:19  Fix layout shift on load  (rev 2082)
