@@ -259,3 +259,4 @@
 # 2025-02-23T16:16:30  Cache frequent read queries  (rev 2070)
 # 2025-02-23T18:37:18  Cache frequent read queries  (rev 2073)
 # 2025-02-24T21:42:34  Cache frequent read queries  (rev 2080)
+# 2025-03-02T16:28:17  Add index to speed up lookups  (rev 2092)
