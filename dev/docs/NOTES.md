@@ -271,3 +271,4 @@ Running log of changes.
 - 2025-02-27T09:05:00 — Clarify setup instructions (#2088)
 - 2025-03-03T19:51:11 — Add usage examples to docs (#2096)
 - 2025-03-04T13:55:14 — Fix typos in documentation (#2099)
+- 2025-03-04T18:41:48 — Fix typos in documentation (#2100)
