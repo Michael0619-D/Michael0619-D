@@ -268,3 +268,4 @@
 # 2025-03-14T11:43:13  Reduce N+1 queries in reports  (rev 2147)
 # 2025-03-14T18:48:50  Reduce N+1 queries in reports  (rev 2148)
 # 2025-03-17T18:59:36  Batch database writes  (rev 2151)
+# 2025-03-21T12:47:18  Cache frequent read queries  (rev 2157)
