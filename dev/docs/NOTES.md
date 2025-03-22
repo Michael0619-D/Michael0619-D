@@ -278,3 +278,4 @@ Running log of changes.
 - 2025-03-10T18:56:04 — Document configuration options (#2132)
 - 2025-03-17T15:19:28 — Add usage examples to docs (#2150)
 - 2025-03-21T09:46:58 — Update documentation (#2155)
+- 2025-03-22T13:46:47 — Fix typos in documentation (#2160)
