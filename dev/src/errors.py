@@ -256,3 +256,4 @@
 # 2025-03-22T13:39:10  Return structured error responses  (rev 2159)
 # 2025-03-22T20:01:50  Wrap external calls with retries  (rev 2161)
 # 2025-03-25T13:27:21  Wrap external calls with retries  (rev 2165)
+# 2025-03-25T14:27:52  Improve error messages for validation  (rev 2166)
