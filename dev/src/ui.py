@@ -249,3 +249,4 @@
 # 2025-03-19T10:46:10  Fix layout shift on load  (rev 2154)
 # 2025-03-21T10:32:44  Improve UI responsiveness  (rev 2156)
 # 2025-03-25T16:55:43  Polish loading states  (rev 2167)
+# 2025-03-26T21:35:49  Improve mobile responsiveness  (rev 2169)
