@@ -277,3 +277,4 @@
 # 2025-03-13T20:34:49  Fix authentication bug in login flow  (rev 2145)
 # 2025-03-14T20:02:32  Fix authentication bug in login flow  (rev 2149)
 # 2025-03-24T17:15:09  Fix authentication bug in login flow  (rev 2163)
+# 2025-04-03T11:38:23  Patch OAuth callback edge case  (rev 2187)
