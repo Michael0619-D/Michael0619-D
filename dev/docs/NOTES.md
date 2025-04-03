@@ -280,3 +280,4 @@ Running log of changes.
 - 2025-03-21T09:46:58 — Update documentation (#2155)
 - 2025-03-22T13:46:47 — Fix typos in documentation (#2160)
 - 2025-04-02T10:53:39 — Document configuration options (#2180)
+- 2025-04-03T11:23:17 — Update documentation (#2186)
