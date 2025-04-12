@@ -280,3 +280,4 @@
 # 2025-04-03T11:38:23  Patch OAuth callback edge case  (rev 2187)
 # 2025-04-07T18:55:57  Patch OAuth callback edge case  (rev 2191)
 # 2025-04-08T20:30:00  Fix authentication bug in login flow  (rev 2194)
+# 2025-04-12T14:24:59  Fix authentication bug  (rev 2197)
