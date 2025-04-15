@@ -283,3 +283,4 @@ Running log of changes.
 - 2025-04-03T11:23:17 — Update documentation (#2186)
 - 2025-04-03T20:07:10 — Add usage examples to docs (#2188)
 - 2025-04-07T21:27:00 — Add usage examples to docs (#2192)
+- 2025-04-15T21:17:27 — Clarify setup instructions (#2205)
