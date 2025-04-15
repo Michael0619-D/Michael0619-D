@@ -291,3 +291,4 @@
 # 2025-04-03T09:26:12  Tidy up module structure  (rev 2184)
 # 2025-04-07T16:13:11  Drop deprecated helpers  (rev 2190)
 # 2025-04-12T14:30:41  Tidy up module structure  (rev 2198)
+# 2025-04-15T16:19:38  Rename variables for clarity  (rev 2202)
