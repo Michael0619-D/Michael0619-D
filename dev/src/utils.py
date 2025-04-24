@@ -294,3 +294,4 @@
 # 2025-04-15T16:19:38  Rename variables for clarity  (rev 2202)
 # 2025-04-18T13:15:27  Drop deprecated helpers  (rev 2214)
 # 2025-04-20T16:14:54  Cleanup unused code  (rev 2218)
+# 2025-04-24T16:18:21  Tidy up module structure  (rev 2233)
