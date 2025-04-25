@@ -258,3 +258,4 @@
 # 2025-04-15T18:29:36  Fix layout shift on load  (rev 2204)
 # 2025-04-20T18:18:00  Improve mobile responsiveness  (rev 2219)
 # 2025-04-21T12:39:01  Improve UI responsiveness  (rev 2222)
+# 2025-04-25T19:30:42  Debounce search input  (rev 2239)
