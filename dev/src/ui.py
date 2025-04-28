@@ -260,3 +260,4 @@
 # 2025-04-21T12:39:01  Improve UI responsiveness  (rev 2222)
 # 2025-04-25T19:30:42  Debounce search input  (rev 2239)
 # 2025-04-27T12:44:31  Improve mobile responsiveness  (rev 2241)
+# 2025-04-28T11:30:23  Polish loading states  (rev 2242)
