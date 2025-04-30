@@ -290,3 +290,4 @@ Running log of changes.
 - 2025-04-25T18:28:33 — Fix typos in documentation (#2238)
 - 2025-04-29T09:31:27 — Document configuration options (#2244)
 - 2025-04-29T12:08:19 — Clarify setup instructions (#2245)
+- 2025-04-30T18:27:02 — Clarify setup instructions (#2252)
