@@ -291,3 +291,4 @@ Running log of changes.
 - 2025-04-29T09:31:27 — Document configuration options (#2244)
 - 2025-04-29T12:08:19 — Clarify setup instructions (#2245)
 - 2025-04-30T18:27:02 — Clarify setup instructions (#2252)
+- 2025-05-01T18:59:14 — Document configuration options (#2258)
