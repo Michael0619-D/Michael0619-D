@@ -268,3 +268,4 @@
 # 2025-04-25T17:20:13  Split monolithic API handler  (rev 2237)
 # 2025-04-30T15:21:19  Add pagination to list endpoints  (rev 2249)
 # 2025-05-01T12:48:34  Add pagination to list endpoints  (rev 2256)
+# 2025-05-02T16:50:02  Split monolithic API handler  (rev 2261)
