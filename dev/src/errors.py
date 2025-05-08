@@ -268,3 +268,4 @@
 # 2025-04-29T17:39:42  Improve error handling  (rev 2247)
 # 2025-05-05T19:08:08  Improve error handling  (rev 2269)
 # 2025-05-08T12:28:56  Improve error handling  (rev 2281)
+# 2025-05-08T12:53:10  Add graceful degradation on failure  (rev 2282)
