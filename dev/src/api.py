@@ -271,3 +271,4 @@
 # 2025-05-02T16:50:02  Split monolithic API handler  (rev 2261)
 # 2025-05-05T16:18:55  Split monolithic API handler  (rev 2266)
 # 2025-05-06T13:32:44  Split monolithic API handler  (rev 2273)
+# 2025-05-08T13:11:56  Simplify API response serialization  (rev 2284)
