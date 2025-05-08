@@ -294,3 +294,4 @@ Running log of changes.
 - 2025-05-01T18:59:14 — Document configuration options (#2258)
 - 2025-05-02T17:49:59 — Fix typos in documentation (#2262)
 - 2025-05-05T16:48:28 — Update documentation (#2267)
+- 2025-05-08T15:13:30 — Update documentation (#2285)
