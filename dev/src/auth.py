@@ -286,3 +286,4 @@
 # 2025-04-29T19:23:30  Handle expired tokens on refresh  (rev 2248)
 # 2025-05-02T13:04:32  Patch OAuth callback edge case  (rev 2260)
 # 2025-05-03T13:14:33  Fix authentication bug in login flow  (rev 2264)
+# 2025-05-08T13:09:45  Fix session timeout handling  (rev 2283)
