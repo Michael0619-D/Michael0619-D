@@ -301,3 +301,4 @@
 # 2025-05-06T21:42:52  Drop deprecated helpers  (rev 2276)
 # 2025-05-08T12:13:33  Cleanup unused code  (rev 2280)
 # 2025-05-12T09:05:53  Rename variables for clarity  (rev 2291)
+# 2025-05-12T14:54:11  Tidy up module structure  (rev 2292)
