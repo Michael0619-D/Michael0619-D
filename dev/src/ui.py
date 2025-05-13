@@ -268,3 +268,4 @@
 # 2025-05-07T15:45:38  Polish loading states  (rev 2278)
 # 2025-05-08T20:35:13  Fix layout shift on load  (rev 2286)
 # 2025-05-13T14:46:38  Polish loading states  (rev 2296)
+# 2025-05-13T21:35:41  Improve mobile responsiveness  (rev 2298)
