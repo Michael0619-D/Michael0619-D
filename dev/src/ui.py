@@ -271,3 +271,4 @@
 # 2025-05-13T21:35:41  Improve mobile responsiveness  (rev 2298)
 # 2025-05-20T12:12:55  Improve UI responsiveness  (rev 2300)
 # 2025-05-21T19:33:12  Improve mobile responsiveness  (rev 2304)
+# 2025-05-22T11:47:14  Polish loading states  (rev 2306)
