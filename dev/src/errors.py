@@ -273,3 +273,4 @@
 # 2025-05-13T14:08:07  Improve error messages for validation  (rev 2295)
 # 2025-05-13T21:08:08  Improve error handling  (rev 2297)
 # 2025-05-20T18:48:27  Return structured error responses  (rev 2302)
+# 2025-05-22T19:44:14  Improve error messages for validation  (rev 2311)
