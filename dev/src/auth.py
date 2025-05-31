@@ -292,3 +292,4 @@
 # 2025-05-21T21:11:00  Fix session timeout handling  (rev 2305)
 # 2025-05-22T13:37:09  Patch OAuth callback edge case  (rev 2309)
 # 2025-05-23T21:54:10  Fix session timeout handling  (rev 2320)
+# 2025-05-31T10:50:52  Fix authentication bug  (rev 2339)
