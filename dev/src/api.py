@@ -280,3 +280,4 @@
 # 2025-05-29T15:05:23  Split monolithic API handler  (rev 2334)
 # 2025-05-31T10:42:07  Refactor API handlers  (rev 2338)
 # 2025-06-03T12:02:14  Split monolithic API handler  (rev 2342)
+# 2025-06-06T14:10:01  Refactor API handlers  (rev 2350)
