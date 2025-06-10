@@ -296,3 +296,4 @@
 # 2025-05-31T16:50:44  Handle expired tokens on refresh  (rev 2340)
 # 2025-06-09T11:49:44  Patch OAuth callback edge case  (rev 2353)
 # 2025-06-09T14:37:02  Patch OAuth callback edge case  (rev 2355)
+# 2025-06-10T14:45:29  Fix session timeout handling  (rev 2356)
