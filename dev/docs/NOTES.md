@@ -300,3 +300,4 @@ Running log of changes.
 - 2025-05-28T21:08:21 — Add usage examples to docs (#2332)
 - 2025-05-29T13:39:06 — Add usage examples to docs (#2333)
 - 2025-05-29T21:59:38 — Update documentation (#2337)
+- 2025-06-11T13:29:13 — Clarify setup instructions (#2358)
