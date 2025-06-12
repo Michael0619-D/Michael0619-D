@@ -279,3 +279,4 @@
 # 2025-06-04T21:04:32  Wrap external calls with retries  (rev 2346)
 # 2025-06-06T14:57:25  Improve error messages for validation  (rev 2351)
 # 2025-06-09T12:53:30  Return structured error responses  (rev 2354)
+# 2025-06-12T15:52:25  Add graceful degradation on failure  (rev 2363)
