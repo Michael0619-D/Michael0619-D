@@ -303,3 +303,4 @@ Running log of changes.
 - 2025-06-11T13:29:13 — Clarify setup instructions (#2358)
 - 2025-06-11T20:48:49 — Add usage examples to docs (#2360)
 - 2025-06-16T15:40:45 — Clarify setup instructions (#2377)
+- 2025-06-16T18:21:29 — Update documentation (#2378)
