@@ -305,3 +305,4 @@ Running log of changes.
 - 2025-06-16T15:40:45 — Clarify setup instructions (#2377)
 - 2025-06-16T18:21:29 — Update documentation (#2378)
 - 2025-06-17T21:17:26 — Document configuration options (#2381)
+- 2025-06-18T20:37:02 — Clarify setup instructions (#2386)
