@@ -298,3 +298,4 @@
 # 2025-06-15T09:01:59  Optimize database queries  (rev 2374)
 # 2025-06-17T10:50:52  Batch database writes  (rev 2379)
 # 2025-06-17T21:08:11  Cache frequent read queries  (rev 2380)
+# 2025-06-18T14:40:23  Add index to speed up lookups  (rev 2385)
