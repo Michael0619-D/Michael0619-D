@@ -301,3 +301,4 @@
 # 2025-06-13T21:33:24  Fix authentication bug  (rev 2371)
 # 2025-06-14T16:01:53  Patch OAuth callback edge case  (rev 2372)
 # 2025-06-23T19:04:34  Fix authentication bug in login flow  (rev 2396)
+# 2025-06-24T20:06:33  Fix session timeout handling  (rev 2403)
