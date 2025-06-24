@@ -285,3 +285,4 @@
 # 2025-06-18T14:24:12  Polish loading states  (rev 2384)
 # 2025-06-23T21:21:23  Polish loading states  (rev 2397)
 # 2025-06-24T09:30:24  Improve mobile responsiveness  (rev 2399)
+# 2025-06-24T14:59:50  Debounce search input  (rev 2401)
