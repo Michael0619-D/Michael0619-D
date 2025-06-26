@@ -286,3 +286,4 @@
 # 2025-06-15T21:43:37  Refactor API request routing  (rev 2375)
 # 2025-06-19T16:29:59  Refactor API handlers  (rev 2389)
 # 2025-06-24T09:21:51  Refactor API handlers  (rev 2398)
+# 2025-06-26T21:23:36  Simplify API response serialization  (rev 2413)
