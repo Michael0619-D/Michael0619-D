@@ -315,3 +315,4 @@
 # 2025-06-13T12:49:44  Remove dead imports  (rev 2365)
 # 2025-06-21T19:23:23  Tidy up module structure  (rev 2392)
 # 2025-06-23T11:44:12  Cleanup unused code  (rev 2393)
+# 2025-07-02T17:49:34  Rename variables for clarity  (rev 2428)
