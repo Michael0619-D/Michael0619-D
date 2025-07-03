@@ -307,3 +307,4 @@
 # 2025-06-30T13:09:23  Add index to speed up lookups  (rev 2419)
 # 2025-06-30T19:07:25  Cache frequent read queries  (rev 2424)
 # 2025-07-03T16:13:49  Add index to speed up lookups  (rev 2432)
+# 2025-07-03T18:59:21  Add index to speed up lookups  (rev 2435)
