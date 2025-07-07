@@ -310,3 +310,4 @@ Running log of changes.
 - 2025-06-25T12:03:25 — Fix typos in documentation (#2406)
 - 2025-06-30T15:31:15 — Update documentation (#2422)
 - 2025-07-07T16:08:45 — Document configuration options (#2437)
+- 2025-07-07T16:40:04 — Document configuration options (#2438)
