@@ -322,3 +322,4 @@
 # 2025-07-09T15:49:41  Add unit tests  (rev 2445)
 # 2025-07-10T09:57:40  Add unit tests  (rev 2446)
 # 2025-07-10T13:46:36  Add regression test for auth flow  (rev 2447)
+# 2025-07-11T17:37:32  Stabilize flaky integration test  (rev 2450)
