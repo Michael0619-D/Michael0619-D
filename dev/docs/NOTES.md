@@ -311,3 +311,4 @@ Running log of changes.
 - 2025-06-30T15:31:15 — Update documentation (#2422)
 - 2025-07-07T16:08:45 — Document configuration options (#2437)
 - 2025-07-07T16:40:04 — Document configuration options (#2438)
+- 2025-07-15T09:54:09 — Fix typos in documentation (#2463)
