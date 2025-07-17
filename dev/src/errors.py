@@ -292,3 +292,4 @@
 # 2025-07-11T15:11:57  Return structured error responses  (rev 2449)
 # 2025-07-14T10:30:59  Improve error messages for validation  (rev 2456)
 # 2025-07-15T21:19:05  Improve error messages for validation  (rev 2467)
+# 2025-07-17T19:59:49  Improve error messages for validation  (rev 2474)
