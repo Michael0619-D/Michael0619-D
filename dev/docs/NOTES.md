@@ -314,3 +314,4 @@ Running log of changes.
 - 2025-07-15T09:54:09 — Fix typos in documentation (#2463)
 - 2025-07-15T17:07:44 — Clarify setup instructions (#2465)
 - 2025-07-15T20:23:45 — Update documentation (#2466)
+- 2025-07-18T15:20:58 — Update documentation (#2479)
