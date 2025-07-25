@@ -295,3 +295,4 @@
 # 2025-07-23T20:28:59  Split monolithic API handler  (rev 2493)
 # 2025-07-24T13:28:27  Refactor API handlers  (rev 2495)
 # 2025-07-24T21:14:22  Refactor API handlers  (rev 2496)
+# 2025-07-25T09:03:26  Simplify API response serialization  (rev 2497)
