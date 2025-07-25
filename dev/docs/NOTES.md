@@ -317,3 +317,4 @@ Running log of changes.
 - 2025-07-18T15:20:58 — Update documentation (#2479)
 - 2025-07-21T19:16:55 — Add usage examples to docs (#2485)
 - 2025-07-23T15:40:07 — Add usage examples to docs (#2490)
+- 2025-07-25T09:54:58 — Document configuration options (#2498)
