@@ -318,3 +318,4 @@
 # 2025-07-17T10:26:47  Add index to speed up lookups  (rev 2471)
 # 2025-07-23T19:39:09  Batch database writes  (rev 2492)
 # 2025-07-28T12:52:37  Reduce N+1 queries in reports  (rev 2502)
+# 2025-07-29T20:04:21  Reduce N+1 queries in reports  (rev 2511)
