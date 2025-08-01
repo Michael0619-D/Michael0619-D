@@ -319,3 +319,4 @@ Running log of changes.
 - 2025-07-23T15:40:07 — Add usage examples to docs (#2490)
 - 2025-07-25T09:54:58 — Document configuration options (#2498)
 - 2025-07-30T21:48:55 — Add usage examples to docs (#2514)
+- 2025-08-01T12:55:53 — Fix typos in documentation (#2519)
