@@ -321,3 +321,4 @@
 # 2025-07-31T15:50:21  Patch OAuth callback edge case  (rev 2516)
 # 2025-08-03T21:35:10  Patch OAuth callback edge case  (rev 2524)
 # 2025-08-04T11:03:28  Fix session timeout handling  (rev 2525)
+# 2025-08-04T16:06:22  Fix session timeout handling  (rev 2528)
