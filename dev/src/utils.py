@@ -327,3 +327,4 @@
 # 2025-07-28T12:05:43  Drop deprecated helpers  (rev 2501)
 # 2025-07-31T21:38:57  Remove dead imports  (rev 2518)
 # 2025-08-01T17:03:50  Tidy up module structure  (rev 2521)
+# 2025-08-04T13:02:42  Rename variables for clarity  (rev 2526)
