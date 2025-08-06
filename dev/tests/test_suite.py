@@ -335,3 +335,4 @@
 # 2025-07-29T13:05:47  Add edge-case tests for parser  (rev 2509)
 # 2025-07-29T17:34:34  Stabilize flaky integration test  (rev 2510)
 # 2025-08-03T17:09:46  Add edge-case tests for parser  (rev 2523)
+# 2025-08-06T10:54:58  Add regression test for auth flow  (rev 2533)
