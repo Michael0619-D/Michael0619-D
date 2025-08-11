@@ -320,3 +320,4 @@
 # 2025-07-28T12:52:37  Reduce N+1 queries in reports  (rev 2502)
 # 2025-07-29T20:04:21  Reduce N+1 queries in reports  (rev 2511)
 # 2025-08-08T16:33:13  Reduce N+1 queries in reports  (rev 2546)
+# 2025-08-11T12:04:48  Batch database writes  (rev 2548)
