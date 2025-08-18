@@ -303,3 +303,4 @@
 # 2025-08-08T14:13:11  Wrap external calls with retries  (rev 2543)
 # 2025-08-08T15:10:50  Add graceful degradation on failure  (rev 2544)
 # 2025-08-14T19:46:13  Return structured error responses  (rev 2554)
+# 2025-08-18T19:29:05  Improve error messages for validation  (rev 2562)
