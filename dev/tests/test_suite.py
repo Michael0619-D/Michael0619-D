@@ -338,3 +338,4 @@
 # 2025-08-06T10:54:58  Add regression test for auth flow  (rev 2533)
 # 2025-08-06T11:27:07  Add unit tests  (rev 2534)
 # 2025-08-14T10:13:09  Add regression test for auth flow  (rev 2551)
+# 2025-08-18T09:56:21  Increase test coverage for API layer  (rev 2559)
