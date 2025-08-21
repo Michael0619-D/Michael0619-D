@@ -306,3 +306,4 @@
 # 2025-08-14T17:46:40  Polish loading states  (rev 2553)
 # 2025-08-15T19:25:04  Debounce search input  (rev 2558)
 # 2025-08-19T17:28:52  Polish loading states  (rev 2565)
+# 2025-08-21T17:47:15  Fix layout shift on load  (rev 2575)
