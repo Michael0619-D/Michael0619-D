@@ -307,3 +307,4 @@
 # 2025-08-15T14:33:06  Refactor API handlers  (rev 2557)
 # 2025-08-19T17:08:13  Refactor API handlers  (rev 2564)
 # 2025-08-20T15:11:15  Refactor API handlers  (rev 2569)
+# 2025-08-21T17:43:34  Refactor API request routing  (rev 2574)
