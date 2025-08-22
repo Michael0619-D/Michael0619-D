@@ -305,3 +305,4 @@
 # 2025-08-14T19:46:13  Return structured error responses  (rev 2554)
 # 2025-08-18T19:29:05  Improve error messages for validation  (rev 2562)
 # 2025-08-19T19:13:44  Add graceful degradation on failure  (rev 2566)
+# 2025-08-22T20:28:54  Return structured error responses  (rev 2580)
