@@ -334,3 +334,4 @@
 # 2025-08-24T10:06:18  Remove dead imports  (rev 2581)
 # 2025-08-24T17:40:15  Cleanup unused code  (rev 2582)
 # 2025-08-25T11:29:25  Cleanup unused code  (rev 2583)
+# 2025-08-25T16:25:16  Drop deprecated helpers  (rev 2586)
