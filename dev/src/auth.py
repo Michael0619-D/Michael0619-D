@@ -329,3 +329,4 @@
 # 2025-08-20T16:17:05  Handle expired tokens on refresh  (rev 2571)
 # 2025-08-21T14:05:11  Handle expired tokens on refresh  (rev 2572)
 # 2025-08-22T19:20:34  Handle expired tokens on refresh  (rev 2579)
+# 2025-08-25T15:48:10  Fix session timeout handling  (rev 2585)
