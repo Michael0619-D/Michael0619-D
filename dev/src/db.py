@@ -325,3 +325,4 @@
 # 2025-08-20T15:19:57  Add index to speed up lookups  (rev 2570)
 # 2025-08-21T15:38:35  Optimize database queries  (rev 2573)
 # 2025-08-25T11:59:42  Add index to speed up lookups  (rev 2584)
+# 2025-08-27T13:32:21  Reduce N+1 queries in reports  (rev 2591)
