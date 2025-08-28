@@ -309,3 +309,4 @@
 # 2025-08-20T15:11:15  Refactor API handlers  (rev 2569)
 # 2025-08-21T17:43:34  Refactor API request routing  (rev 2574)
 # 2025-08-22T15:17:23  Add pagination to list endpoints  (rev 2576)
+# 2025-08-28T20:27:40  Refactor API handlers  (rev 2594)
