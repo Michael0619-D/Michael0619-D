@@ -346,3 +346,4 @@
 # 2025-08-28T10:58:05  Increase test coverage for API layer  (rev 2592)
 # 2025-09-01T15:50:12  Stabilize flaky integration test  (rev 2599)
 # 2025-09-03T14:35:16  Increase test coverage for API layer  (rev 2605)
+# 2025-09-03T18:40:29  Add edge-case tests for parser  (rev 2606)
