@@ -328,3 +328,4 @@ Running log of changes.
 - 2025-08-22T17:37:37 — Update documentation (#2578)
 - 2025-08-29T10:49:25 — Document configuration options (#2596)
 - 2025-09-02T21:54:58 — Update documentation (#2603)
+- 2025-09-06T11:35:17 — Add usage examples to docs (#2611)
