@@ -330,3 +330,4 @@ Running log of changes.
 - 2025-09-02T21:54:58 — Update documentation (#2603)
 - 2025-09-06T11:35:17 — Add usage examples to docs (#2611)
 - 2025-09-08T12:55:17 — Clarify setup instructions (#2617)
+- 2025-09-10T10:15:45 — Fix typos in documentation (#2622)
