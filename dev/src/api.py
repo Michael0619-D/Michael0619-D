@@ -313,3 +313,4 @@
 # 2025-09-07T12:27:44  Split monolithic API handler  (rev 2614)
 # 2025-09-10T19:24:30  Split monolithic API handler  (rev 2624)
 # 2025-09-15T16:45:31  Add pagination to list endpoints  (rev 2630)
+# 2025-09-15T19:51:52  Add pagination to list endpoints  (rev 2634)
