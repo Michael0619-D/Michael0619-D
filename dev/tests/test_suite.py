@@ -351,3 +351,4 @@
 # 2025-09-05T19:57:09  Add unit tests  (rev 2610)
 # 2025-09-09T10:05:29  Add edge-case tests for parser  (rev 2619)
 # 2025-09-19T21:47:01  Add edge-case tests for parser  (rev 2655)
+# 2025-09-24T18:16:54  Add regression test for auth flow  (rev 2663)
