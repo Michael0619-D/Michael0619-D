@@ -315,3 +315,4 @@
 # 2025-09-17T13:59:09  Add graceful degradation on failure  (rev 2645)
 # 2025-09-19T20:05:15  Improve error handling  (rev 2654)
 # 2025-09-24T19:35:37  Add graceful degradation on failure  (rev 2664)
+# 2025-09-25T20:45:28  Improve error messages for validation  (rev 2670)
