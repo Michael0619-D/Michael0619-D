@@ -318,3 +318,4 @@
 # 2025-09-19T09:05:26  Split monolithic API handler  (rev 2650)
 # 2025-09-20T14:35:12  Add pagination to list endpoints  (rev 2657)
 # 2025-09-22T20:43:58  Refactor API request routing  (rev 2660)
+# 2025-09-26T10:14:11  Add pagination to list endpoints  (rev 2672)
