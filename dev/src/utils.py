@@ -347,3 +347,4 @@
 # 2025-09-20T21:23:43  Drop deprecated helpers  (rev 2658)
 # 2025-09-22T09:23:23  Rename variables for clarity  (rev 2659)
 # 2025-09-29T16:26:22  Tidy up module structure  (rev 2676)
+# 2025-09-29T21:13:09  Rename variables for clarity  (rev 2677)
