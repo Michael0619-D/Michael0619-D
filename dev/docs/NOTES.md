@@ -338,3 +338,4 @@ Running log of changes.
 - 2025-09-19T19:27:37 — Add usage examples to docs (#2653)
 - 2025-09-25T17:24:07 — Add usage examples to docs (#2669)
 - 2025-09-29T11:32:18 — Add usage examples to docs (#2674)
+- 2025-09-30T11:13:02 — Fix typos in documentation (#2678)
