@@ -316,3 +316,4 @@
 # 2025-09-19T20:05:15  Improve error handling  (rev 2654)
 # 2025-09-24T19:35:37  Add graceful degradation on failure  (rev 2664)
 # 2025-09-25T20:45:28  Improve error messages for validation  (rev 2670)
+# 2025-09-30T16:47:08  Return structured error responses  (rev 2681)
