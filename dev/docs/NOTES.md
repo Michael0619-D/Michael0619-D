@@ -340,3 +340,4 @@ Running log of changes.
 - 2025-09-29T11:32:18 — Add usage examples to docs (#2674)
 - 2025-09-30T11:13:02 — Fix typos in documentation (#2678)
 - 2025-09-30T13:36:50 — Fix typos in documentation (#2679)
+- 2025-10-03T21:02:34 — Document configuration options (#2693)
