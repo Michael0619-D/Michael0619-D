@@ -336,3 +336,4 @@
 # 2025-09-15T14:20:10  Fix authentication bug in login flow  (rev 2629)
 # 2025-09-19T19:07:08  Handle expired tokens on refresh  (rev 2652)
 # 2025-09-25T12:53:09  Fix authentication bug  (rev 2667)
+# 2025-10-05T15:13:47  Fix session timeout handling  (rev 2694)
