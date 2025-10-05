@@ -320,3 +320,4 @@
 # 2025-10-01T10:22:11  Improve error handling  (rev 2682)
 # 2025-10-02T17:18:51  Wrap external calls with retries  (rev 2686)
 # 2025-10-03T16:33:52  Wrap external calls with retries  (rev 2689)
+# 2025-10-05T15:54:49  Add graceful degradation on failure  (rev 2695)
