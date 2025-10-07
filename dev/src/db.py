@@ -341,3 +341,4 @@
 # 2025-09-25T10:01:17  Batch database writes  (rev 2665)
 # 2025-09-25T10:06:40  Batch database writes  (rev 2666)
 # 2025-09-30T14:33:45  Cache frequent read queries  (rev 2680)
+# 2025-10-07T09:26:17  Reduce N+1 queries in reports  (rev 2701)
