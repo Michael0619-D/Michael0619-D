@@ -343,3 +343,4 @@ Running log of changes.
 - 2025-10-03T21:02:34 — Document configuration options (#2693)
 - 2025-10-06T10:52:07 — Add usage examples to docs (#2697)
 - 2025-10-08T11:15:42 — Document configuration options (#2704)
+- 2025-10-08T21:52:47 — Update documentation (#2705)
