@@ -343,3 +343,4 @@
 # 2025-09-30T14:33:45  Cache frequent read queries  (rev 2680)
 # 2025-10-07T09:26:17  Reduce N+1 queries in reports  (rev 2701)
 # 2025-10-10T15:13:11  Cache frequent read queries  (rev 2708)
+# 2025-10-14T14:54:45  Cache frequent read queries  (rev 2716)
