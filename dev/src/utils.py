@@ -352,3 +352,4 @@
 # 2025-10-02T20:54:47  Rename variables for clarity  (rev 2687)
 # 2025-10-03T10:47:19  Rename variables for clarity  (rev 2688)
 # 2025-10-13T20:38:54  Remove dead imports  (rev 2714)
+# 2025-10-15T18:58:08  Drop deprecated helpers  (rev 2723)
