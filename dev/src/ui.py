@@ -330,3 +330,4 @@
 # 2025-10-10T21:47:15  Polish loading states  (rev 2711)
 # 2025-10-14T15:52:22  Polish loading states  (rev 2718)
 # 2025-10-15T17:15:13  Polish loading states  (rev 2722)
+# 2025-10-16T09:54:00  Fix layout shift on load  (rev 2725)
