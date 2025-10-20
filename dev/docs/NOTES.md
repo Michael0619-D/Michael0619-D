@@ -350,3 +350,4 @@ Running log of changes.
 - 2025-10-16T09:13:56 — Fix typos in documentation (#2724)
 - 2025-10-16T16:29:21 — Clarify setup instructions (#2728)
 - 2025-10-16T21:41:06 — Add usage examples to docs (#2730)
+- 2025-10-20T12:19:36 — Fix typos in documentation (#2733)
