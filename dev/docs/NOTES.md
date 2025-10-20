@@ -352,3 +352,4 @@ Running log of changes.
 - 2025-10-16T21:41:06 — Add usage examples to docs (#2730)
 - 2025-10-20T12:19:36 — Fix typos in documentation (#2733)
 - 2025-10-20T17:43:06 — Fix typos in documentation (#2734)
+- 2025-10-20T18:26:54 — Add usage examples to docs (#2735)
