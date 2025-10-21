@@ -327,3 +327,4 @@
 # 2025-10-14T20:07:40  Refactor API handlers  (rev 2721)
 # 2025-10-20T19:49:46  Simplify API response serialization  (rev 2736)
 # 2025-10-21T16:22:55  Refactor API handlers  (rev 2739)
+# 2025-10-21T20:27:45  Refactor API request routing  (rev 2741)
