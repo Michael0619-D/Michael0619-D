@@ -325,3 +325,4 @@
 # 2025-10-06T20:30:01  Return structured error responses  (rev 2700)
 # 2025-10-22T18:01:34  Return structured error responses  (rev 2744)
 # 2025-10-24T17:59:47  Improve error handling  (rev 2752)
+# 2025-10-27T15:29:37  Wrap external calls with retries  (rev 2758)
