@@ -340,3 +340,4 @@
 # 2025-10-10T19:55:49  Fix authentication bug  (rev 2710)
 # 2025-10-13T16:38:57  Fix authentication bug in login flow  (rev 2712)
 # 2025-10-21T15:16:16  Fix authentication bug in login flow  (rev 2738)
+# 2025-10-27T13:03:08  Handle expired tokens on refresh  (rev 2756)
