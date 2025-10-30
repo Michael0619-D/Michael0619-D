@@ -357,3 +357,4 @@
 # 2025-10-22T19:05:24  Tidy up module structure  (rev 2745)
 # 2025-10-23T19:23:23  Remove dead imports  (rev 2750)
 # 2025-10-27T18:05:27  Remove dead imports  (rev 2760)
+# 2025-10-30T09:25:52  Drop deprecated helpers  (rev 2762)
