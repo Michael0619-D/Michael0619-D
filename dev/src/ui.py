@@ -337,3 +337,4 @@
 # 2025-10-22T09:23:04  Improve UI responsiveness  (rev 2742)
 # 2025-10-22T19:28:10  Debounce search input  (rev 2746)
 # 2025-10-31T13:02:47  Improve UI responsiveness  (rev 2766)
+# 2025-11-04T14:56:44  Improve mobile responsiveness  (rev 2770)
