@@ -356,3 +356,4 @@ Running log of changes.
 - 2025-10-21T11:12:59 — Add usage examples to docs (#2737)
 - 2025-10-23T20:39:03 — Update documentation (#2751)
 - 2025-10-27T15:26:42 — Update documentation (#2757)
+- 2025-11-07T19:23:34 — Update documentation (#2777)
