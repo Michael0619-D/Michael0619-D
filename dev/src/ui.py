@@ -341,3 +341,4 @@
 # 2025-11-05T21:52:55  Improve UI responsiveness  (rev 2773)
 # 2025-11-07T16:26:45  Fix layout shift on load  (rev 2774)
 # 2025-11-07T18:58:46  Fix layout shift on load  (rev 2775)
+# 2025-11-10T11:08:54  Improve mobile responsiveness  (rev 2779)
