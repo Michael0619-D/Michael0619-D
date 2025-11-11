@@ -357,3 +357,4 @@ Running log of changes.
 - 2025-10-23T20:39:03 — Update documentation (#2751)
 - 2025-10-27T15:26:42 — Update documentation (#2757)
 - 2025-11-07T19:23:34 — Update documentation (#2777)
+- 2025-11-11T10:58:59 — Update documentation (#2782)
