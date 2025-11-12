@@ -332,3 +332,4 @@
 # 2025-10-25T15:15:25  Refactor API request routing  (rev 2753)
 # 2025-11-07T18:59:47  Refactor API request routing  (rev 2776)
 # 2025-11-11T09:29:11  Simplify API response serialization  (rev 2781)
+# 2025-11-12T20:13:24  Add pagination to list endpoints  (rev 2789)
