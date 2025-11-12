@@ -359,3 +359,4 @@ Running log of changes.
 - 2025-11-07T19:23:34 — Update documentation (#2777)
 - 2025-11-11T10:58:59 — Update documentation (#2782)
 - 2025-11-12T15:33:09 — Add usage examples to docs (#2786)
+- 2025-11-12T17:52:42 — Document configuration options (#2787)
