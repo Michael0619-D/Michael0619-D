@@ -360,3 +360,4 @@
 # 2025-11-11T18:27:49  Add index to speed up lookups  (rev 2785)
 # 2025-11-13T18:23:00  Batch database writes  (rev 2791)
 # 2025-11-13T19:43:46  Reduce N+1 queries in reports  (rev 2792)
+# 2025-11-19T19:25:27  Reduce N+1 queries in reports  (rev 2809)
