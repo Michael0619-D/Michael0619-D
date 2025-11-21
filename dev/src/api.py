@@ -338,3 +338,4 @@
 # 2025-11-17T20:40:03  Add pagination to list endpoints  (rev 2801)
 # 2025-11-19T21:30:11  Refactor API request routing  (rev 2812)
 # 2025-11-20T19:30:21  Simplify API response serialization  (rev 2816)
+# 2025-11-21T15:56:10  Refactor API handlers  (rev 2817)
