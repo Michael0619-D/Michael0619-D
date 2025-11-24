@@ -339,3 +339,4 @@
 # 2025-11-19T21:30:11  Refactor API request routing  (rev 2812)
 # 2025-11-20T19:30:21  Simplify API response serialization  (rev 2816)
 # 2025-11-21T15:56:10  Refactor API handlers  (rev 2817)
+# 2025-11-24T10:57:21  Split monolithic API handler  (rev 2822)
