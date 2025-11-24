@@ -348,3 +348,4 @@
 # 2025-11-17T19:37:36  Fix authentication bug  (rev 2800)
 # 2025-11-19T11:59:24  Fix session timeout handling  (rev 2807)
 # 2025-11-21T20:49:22  Patch OAuth callback edge case  (rev 2818)
+# 2025-11-24T11:47:03  Patch OAuth callback edge case  (rev 2823)
