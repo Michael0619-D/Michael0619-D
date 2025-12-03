@@ -347,3 +347,4 @@
 # 2025-11-19T19:46:22  Fix layout shift on load  (rev 2810)
 # 2025-11-20T15:22:31  Improve mobile responsiveness  (rev 2814)
 # 2025-11-25T11:17:47  Debounce search input  (rev 2828)
+# 2025-12-03T19:05:10  Improve mobile responsiveness  (rev 2841)
