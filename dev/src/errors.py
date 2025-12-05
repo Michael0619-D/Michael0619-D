@@ -332,3 +332,4 @@
 # 2025-11-20T17:28:15  Wrap external calls with retries  (rev 2815)
 # 2025-11-29T15:28:01  Return structured error responses  (rev 2832)
 # 2025-12-05T10:15:11  Add graceful degradation on failure  (rev 2849)
+# 2025-12-05T16:15:35  Wrap external calls with retries  (rev 2853)
