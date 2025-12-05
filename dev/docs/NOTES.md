@@ -369,3 +369,4 @@ Running log of changes.
 - 2025-12-01T20:19:28 — Add usage examples to docs (#2836)
 - 2025-12-05T11:21:07 — Clarify setup instructions (#2850)
 - 2025-12-05T11:42:08 — Document configuration options (#2851)
+- 2025-12-05T14:14:11 — Document configuration options (#2852)
