@@ -334,3 +334,4 @@
 # 2025-12-05T10:15:11  Add graceful degradation on failure  (rev 2849)
 # 2025-12-05T16:15:35  Wrap external calls with retries  (rev 2853)
 # 2025-12-05T18:33:08  Add graceful degradation on failure  (rev 2854)
+# 2025-12-06T20:24:41  Improve error messages for validation  (rev 2856)
