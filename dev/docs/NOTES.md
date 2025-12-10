@@ -371,3 +371,4 @@ Running log of changes.
 - 2025-12-05T11:42:08 — Document configuration options (#2851)
 - 2025-12-05T14:14:11 — Document configuration options (#2852)
 - 2025-12-05T18:35:46 — Clarify setup instructions (#2855)
+- 2025-12-10T15:39:46 — Clarify setup instructions (#2862)
