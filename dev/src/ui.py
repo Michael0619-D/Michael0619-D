@@ -354,3 +354,4 @@
 # 2025-12-07T10:58:46  Improve mobile responsiveness  (rev 2857)
 # 2025-12-09T20:59:34  Debounce search input  (rev 2861)
 # 2025-12-11T11:08:50  Polish loading states  (rev 2866)
+# 2025-12-12T17:35:58  Polish loading states  (rev 2869)
