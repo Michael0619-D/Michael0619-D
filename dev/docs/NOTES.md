@@ -373,3 +373,4 @@ Running log of changes.
 - 2025-12-05T18:35:46 — Clarify setup instructions (#2855)
 - 2025-12-10T15:39:46 — Clarify setup instructions (#2862)
 - 2025-12-11T10:57:13 — Clarify setup instructions (#2864)
+- 2025-12-17T16:51:08 — Clarify setup instructions (#2882)
