@@ -374,3 +374,4 @@
 # 2025-12-16T12:11:20  Cleanup unused code  (rev 2877)
 # 2025-12-18T18:29:32  Rename variables for clarity  (rev 2885)
 # 2025-12-18T18:49:43  Rename variables for clarity  (rev 2886)
+# 2025-12-19T18:24:35  Tidy up module structure  (rev 2889)
