@@ -357,3 +357,4 @@
 # 2025-12-10T20:19:13  Handle expired tokens on refresh  (rev 2863)
 # 2025-12-16T18:40:06  Patch OAuth callback edge case  (rev 2879)
 # 2025-12-16T19:11:42  Patch OAuth callback edge case  (rev 2880)
+# 2025-12-19T10:32:31  Patch OAuth callback edge case  (rev 2888)
