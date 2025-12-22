@@ -368,3 +368,4 @@
 # 2025-12-12T21:50:43  Increase test coverage for API layer  (rev 2871)
 # 2025-12-12T21:56:18  Stabilize flaky integration test  (rev 2872)
 # 2025-12-19T19:17:14  Add regression test for auth flow  (rev 2890)
+# 2025-12-22T14:42:03  Add edge-case tests for parser  (rev 2894)
