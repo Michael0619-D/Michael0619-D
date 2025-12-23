@@ -359,3 +359,4 @@
 # 2025-12-16T19:11:42  Patch OAuth callback edge case  (rev 2880)
 # 2025-12-19T10:32:31  Patch OAuth callback edge case  (rev 2888)
 # 2025-12-23T19:46:30  Patch OAuth callback edge case  (rev 2904)
+# 2025-12-23T21:43:54  Fix authentication bug  (rev 2905)
