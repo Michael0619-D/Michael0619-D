@@ -356,3 +356,4 @@
 # 2025-12-11T11:08:50  Polish loading states  (rev 2866)
 # 2025-12-12T17:35:58  Polish loading states  (rev 2869)
 # 2025-12-15T21:51:48  Improve UI responsiveness  (rev 2874)
+# 2025-12-23T12:15:36  Debounce search input  (rev 2900)
