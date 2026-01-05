@@ -380,3 +380,4 @@
 # 2026-01-02T14:46:42  Drop deprecated helpers  (rev 2908)
 # 2026-01-03T11:25:33  Cleanup unused code  (rev 2909)
 # 2026-01-03T16:09:56  Tidy up module structure  (rev 2910)
+# 2026-01-05T13:20:52  Cleanup unused code  (rev 2913)
