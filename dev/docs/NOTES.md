@@ -377,3 +377,4 @@ Running log of changes.
 - 2025-12-18T21:04:53 — Clarify setup instructions (#2887)
 - 2025-12-22T19:07:55 — Clarify setup instructions (#2898)
 - 2025-12-23T15:56:17 — Update documentation (#2902)
+- 2026-01-06T18:40:19 — Add usage examples to docs (#2914)
