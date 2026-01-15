@@ -362,3 +362,4 @@
 # 2025-12-23T21:43:54  Fix authentication bug  (rev 2905)
 # 2026-01-03T16:22:33  Patch OAuth callback edge case  (rev 2911)
 # 2026-01-14T13:48:39  Patch OAuth callback edge case  (rev 2926)
+# 2026-01-15T15:33:18  Handle expired tokens on refresh  (rev 2929)
