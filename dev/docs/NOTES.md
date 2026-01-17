@@ -380,3 +380,4 @@ Running log of changes.
 - 2026-01-06T18:40:19 — Add usage examples to docs (#2914)
 - 2026-01-09T09:07:40 — Update documentation (#2919)
 - 2026-01-13T21:23:33 — Clarify setup instructions (#2925)
+- 2026-01-17T21:03:21 — Clarify setup instructions (#2931)
