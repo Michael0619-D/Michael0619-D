@@ -365,3 +365,4 @@
 # 2026-01-15T15:33:18  Handle expired tokens on refresh  (rev 2929)
 # 2026-01-21T17:15:24  Handle expired tokens on refresh  (rev 2937)
 # 2026-01-23T16:46:05  Patch OAuth callback edge case  (rev 2940)
+# 2026-01-24T09:06:53  Fix session timeout handling  (rev 2943)
