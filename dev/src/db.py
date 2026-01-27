@@ -379,3 +379,4 @@
 # 2026-01-21T17:04:33  Batch database writes  (rev 2936)
 # 2026-01-21T17:46:00  Reduce N+1 queries in reports  (rev 2938)
 # 2026-01-23T20:55:28  Add index to speed up lookups  (rev 2941)
+# 2026-01-27T11:05:45  Batch database writes  (rev 2946)
