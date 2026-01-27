@@ -348,3 +348,4 @@
 # 2025-12-16T14:05:21  Refactor API handlers  (rev 2878)
 # 2026-01-12T14:13:01  Refactor API handlers  (rev 2922)
 # 2026-01-14T19:18:45  Add pagination to list endpoints  (rev 2928)
+# 2026-01-27T17:59:42  Refactor API handlers  (rev 2947)
