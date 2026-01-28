@@ -343,3 +343,4 @@
 # 2026-01-07T15:34:49  Improve error handling  (rev 2916)
 # 2026-01-08T20:37:14  Wrap external calls with retries  (rev 2918)
 # 2026-01-20T09:19:38  Return structured error responses  (rev 2934)
+# 2026-01-28T15:29:53  Return structured error responses  (rev 2948)
