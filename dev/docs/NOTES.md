@@ -382,3 +382,4 @@ Running log of changes.
 - 2026-01-13T21:23:33 — Clarify setup instructions (#2925)
 - 2026-01-17T21:03:21 — Clarify setup instructions (#2931)
 - 2026-01-31T15:51:04 — Update documentation (#2952)
+- 2026-02-02T12:43:40 — Document configuration options (#2955)
