@@ -385,3 +385,4 @@ Running log of changes.
 - 2026-02-02T12:43:40 — Document configuration options (#2955)
 - 2026-02-03T14:38:49 — Add usage examples to docs (#2958)
 - 2026-02-04T14:29:22 — Add usage examples to docs (#2960)
+- 2026-02-09T21:00:46 — Document configuration options (#2969)
