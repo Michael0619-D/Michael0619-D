@@ -345,3 +345,4 @@
 # 2026-01-20T09:19:38  Return structured error responses  (rev 2934)
 # 2026-01-28T15:29:53  Return structured error responses  (rev 2948)
 # 2026-02-06T15:24:34  Add graceful degradation on failure  (rev 2966)
+# 2026-02-11T19:21:31  Wrap external calls with retries  (rev 2973)
