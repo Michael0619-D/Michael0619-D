@@ -391,3 +391,4 @@
 # 2026-01-31T20:39:51  Tidy up module structure  (rev 2954)
 # 2026-02-04T20:08:05  Remove dead imports  (rev 2961)
 # 2026-02-05T13:04:45  Rename variables for clarity  (rev 2963)
+# 2026-02-12T18:27:18  Drop deprecated helpers  (rev 2976)
