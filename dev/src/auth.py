@@ -370,3 +370,4 @@
 # 2026-02-03T13:33:12  Patch OAuth callback edge case  (rev 2957)
 # 2026-02-06T09:04:19  Fix authentication bug in login flow  (rev 2965)
 # 2026-02-09T11:23:11  Handle expired tokens on refresh  (rev 2968)
+# 2026-02-13T14:50:17  Patch OAuth callback edge case  (rev 2977)
