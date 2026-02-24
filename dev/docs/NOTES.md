@@ -389,3 +389,4 @@ Running log of changes.
 - 2026-02-10T21:07:32 — Clarify setup instructions (#2971)
 - 2026-02-13T16:42:42 — Add usage examples to docs (#2978)
 - 2026-02-24T11:27:02 — Document configuration options (#2992)
+- 2026-02-24T11:32:42 — Add usage examples to docs (#2993)
