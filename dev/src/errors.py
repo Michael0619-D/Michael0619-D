@@ -349,3 +349,4 @@
 # 2026-02-19T17:05:16  Improve error messages for validation  (rev 2985)
 # 2026-02-23T10:29:26  Wrap external calls with retries  (rev 2988)
 # 2026-02-24T10:02:29  Wrap external calls with retries  (rev 2990)
+# 2026-02-25T12:03:34  Improve error messages for validation  (rev 2994)
