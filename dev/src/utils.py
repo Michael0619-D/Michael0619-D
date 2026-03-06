@@ -399,3 +399,4 @@
 # 2026-03-01T10:44:59  Drop deprecated helpers  (rev 2998)
 # 2026-03-02T12:29:50  Cleanup unused code  (rev 3001)
 # 2026-03-05T20:26:57  Remove dead imports  (rev 3009)
+# 2026-03-06T20:40:36  Tidy up module structure  (rev 3011)
