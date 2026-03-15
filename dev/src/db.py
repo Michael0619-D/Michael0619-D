@@ -389,3 +389,4 @@
 # 2026-02-17T21:55:45  Cache frequent read queries  (rev 2982)
 # 2026-02-24T10:19:58  Cache frequent read queries  (rev 2991)
 # 2026-03-11T10:03:22  Add index to speed up lookups  (rev 3020)
+# 2026-03-15T11:43:19  Reduce N+1 queries in reports  (rev 3026)
