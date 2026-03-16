@@ -403,3 +403,4 @@
 # 2026-03-07T09:02:37  Remove dead imports  (rev 3012)
 # 2026-03-07T19:43:39  Tidy up module structure  (rev 3013)
 # 2026-03-10T09:14:21  Drop deprecated helpers  (rev 3016)
+# 2026-03-16T18:18:31  Tidy up module structure  (rev 3028)
