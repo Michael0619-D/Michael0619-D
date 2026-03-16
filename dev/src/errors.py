@@ -352,3 +352,4 @@
 # 2026-02-25T12:03:34  Improve error messages for validation  (rev 2994)
 # 2026-03-10T11:49:21  Improve error handling  (rev 3017)
 # 2026-03-12T09:01:14  Improve error handling  (rev 3022)
+# 2026-03-16T16:23:33  Improve error messages for validation  (rev 3027)
