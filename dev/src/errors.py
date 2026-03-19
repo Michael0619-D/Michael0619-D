@@ -354,3 +354,4 @@
 # 2026-03-12T09:01:14  Improve error handling  (rev 3022)
 # 2026-03-16T16:23:33  Improve error messages for validation  (rev 3027)
 # 2026-03-18T11:59:31  Improve error messages for validation  (rev 3029)
+# 2026-03-19T13:37:29  Wrap external calls with retries  (rev 3032)
