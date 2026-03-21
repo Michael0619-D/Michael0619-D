@@ -393,3 +393,4 @@ Running log of changes.
 - 2026-03-02T18:58:11 — Document configuration options (#3002)
 - 2026-03-04T16:21:41 — Document configuration options (#3006)
 - 2026-03-18T21:59:49 — Document configuration options (#3031)
+- 2026-03-21T13:06:48 — Clarify setup instructions (#3036)
