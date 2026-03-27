@@ -371,3 +371,4 @@
 # 2026-03-13T12:35:28  Polish loading states  (rev 3025)
 # 2026-03-20T09:35:19  Improve UI responsiveness  (rev 3034)
 # 2026-03-25T19:39:41  Polish loading states  (rev 3043)
+# 2026-03-27T10:09:22  Fix layout shift on load  (rev 3046)
