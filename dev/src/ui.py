@@ -374,3 +374,4 @@
 # 2026-03-27T10:09:22  Fix layout shift on load  (rev 3046)
 # 2026-03-31T09:47:03  Improve UI responsiveness  (rev 3052)
 # 2026-03-31T12:24:18  Improve mobile responsiveness  (rev 3053)
+# 2026-04-04T11:22:30  Improve mobile responsiveness  (rev 3061)
