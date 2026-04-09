@@ -400,3 +400,4 @@ Running log of changes.
 - 2026-04-09T10:58:03 — Add usage examples to docs (#3066)
 - 2026-04-09T14:10:09 — Fix typos in documentation (#3067)
 - 2026-04-09T16:34:53 — Update documentation (#3068)
+- 2026-04-09T17:43:58 — Add usage examples to docs (#3069)
