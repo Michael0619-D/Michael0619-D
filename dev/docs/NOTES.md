@@ -397,3 +397,4 @@ Running log of changes.
 - 2026-03-23T14:56:11 — Document configuration options (#3039)
 - 2026-04-02T10:01:45 — Fix typos in documentation (#3056)
 - 2026-04-07T11:39:48 — Update documentation (#3064)
+- 2026-04-09T10:58:03 — Add usage examples to docs (#3066)
