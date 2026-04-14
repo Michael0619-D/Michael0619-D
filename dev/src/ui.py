@@ -376,3 +376,4 @@
 # 2026-03-31T12:24:18  Improve mobile responsiveness  (rev 3053)
 # 2026-04-04T11:22:30  Improve mobile responsiveness  (rev 3061)
 # 2026-04-08T17:23:18  Improve UI responsiveness  (rev 3065)
+# 2026-04-14T09:14:37  Debounce search input  (rev 3074)
