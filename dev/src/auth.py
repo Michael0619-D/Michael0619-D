@@ -385,3 +385,4 @@
 # 2026-04-01T20:44:38  Fix authentication bug in login flow  (rev 3055)
 # 2026-04-10T10:41:43  Fix authentication bug in login flow  (rev 3071)
 # 2026-04-10T16:17:06  Handle expired tokens on refresh  (rev 3072)
+# 2026-04-16T20:56:08  Fix session timeout handling  (rev 3080)
