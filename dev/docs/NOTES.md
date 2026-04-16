@@ -401,3 +401,4 @@ Running log of changes.
 - 2026-04-09T14:10:09 — Fix typos in documentation (#3067)
 - 2026-04-09T16:34:53 — Update documentation (#3068)
 - 2026-04-09T17:43:58 — Add usage examples to docs (#3069)
+- 2026-04-16T17:01:01 — Fix typos in documentation (#3078)
