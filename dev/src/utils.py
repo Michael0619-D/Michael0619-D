@@ -410,3 +410,4 @@
 # 2026-04-16T16:44:09  Remove dead imports  (rev 3077)
 # 2026-04-16T20:33:17  Cleanup unused code  (rev 3079)
 # 2026-04-21T10:45:23  Rename variables for clarity  (rev 3086)
+# 2026-04-24T09:16:27  Tidy up module structure  (rev 3087)
