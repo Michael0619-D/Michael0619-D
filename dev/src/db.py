@@ -395,3 +395,4 @@
 # 2026-04-09T19:17:15  Reduce N+1 queries in reports  (rev 3070)
 # 2026-04-15T18:49:09  Cache frequent read queries  (rev 3076)
 # 2026-04-24T14:09:52  Cache frequent read queries  (rev 3089)
+# 2026-04-27T11:41:30  Reduce N+1 queries in reports  (rev 3093)
