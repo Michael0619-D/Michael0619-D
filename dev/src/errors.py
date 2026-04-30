@@ -360,3 +360,4 @@
 # 2026-03-27T13:56:54  Return structured error responses  (rev 3047)
 # 2026-04-02T19:48:30  Add graceful degradation on failure  (rev 3057)
 # 2026-04-06T09:20:03  Add graceful degradation on failure  (rev 3062)
+# 2026-04-30T09:57:05  Wrap external calls with retries  (rev 3099)
