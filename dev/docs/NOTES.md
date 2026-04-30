@@ -405,3 +405,4 @@ Running log of changes.
 - 2026-04-20T11:04:01 — Clarify setup instructions (#3082)
 - 2026-04-24T09:22:47 — Clarify setup instructions (#3088)
 - 2026-04-27T16:54:22 — Fix typos in documentation (#3095)
+- 2026-04-30T12:41:34 — Clarify setup instructions (#3100)
