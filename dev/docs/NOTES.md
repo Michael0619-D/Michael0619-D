@@ -407,3 +407,4 @@ Running log of changes.
 - 2026-04-27T16:54:22 — Fix typos in documentation (#3095)
 - 2026-04-30T12:41:34 — Clarify setup instructions (#3100)
 - 2026-05-01T12:58:47 — Fix typos in documentation (#3101)
+- 2026-05-03T21:40:19 — Fix typos in documentation (#3103)
