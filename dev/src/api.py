@@ -360,3 +360,4 @@
 # 2026-03-30T14:43:43  Simplify API response serialization  (rev 3050)
 # 2026-04-14T19:27:29  Add pagination to list endpoints  (rev 3075)
 # 2026-04-20T17:33:41  Add pagination to list endpoints  (rev 3084)
+# 2026-05-03T20:09:53  Refactor API handlers  (rev 3102)
