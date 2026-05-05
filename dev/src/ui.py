@@ -380,3 +380,4 @@
 # 2026-04-19T15:20:27  Polish loading states  (rev 3081)
 # 2026-04-26T19:34:58  Fix layout shift on load  (rev 3091)
 # 2026-05-05T17:20:11  Polish loading states  (rev 3108)
+# 2026-05-05T17:56:26  Improve mobile responsiveness  (rev 3109)
