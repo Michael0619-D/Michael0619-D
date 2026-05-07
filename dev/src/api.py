@@ -363,3 +363,4 @@
 # 2026-05-03T20:09:53  Refactor API handlers  (rev 3102)
 # 2026-05-05T10:05:25  Refactor API handlers  (rev 3107)
 # 2026-05-05T19:08:43  Refactor API handlers  (rev 3110)
+# 2026-05-07T19:46:26  Refactor API request routing  (rev 3114)
