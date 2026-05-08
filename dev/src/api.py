@@ -365,3 +365,4 @@
 # 2026-05-05T19:08:43  Refactor API handlers  (rev 3110)
 # 2026-05-07T19:46:26  Refactor API request routing  (rev 3114)
 # 2026-05-08T17:59:02  Split monolithic API handler  (rev 3117)
+# 2026-05-08T20:22:07  Add pagination to list endpoints  (rev 3118)
