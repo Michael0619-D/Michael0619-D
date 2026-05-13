@@ -391,3 +391,4 @@
 # 2026-04-27T10:39:07  Handle expired tokens on refresh  (rev 3092)
 # 2026-04-29T12:04:48  Fix authentication bug in login flow  (rev 3098)
 # 2026-05-13T15:26:52  Patch OAuth callback edge case  (rev 3123)
+# 2026-05-13T17:06:55  Fix session timeout handling  (rev 3124)
