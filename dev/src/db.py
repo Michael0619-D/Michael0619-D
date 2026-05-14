@@ -400,3 +400,4 @@
 # 2026-04-27T20:49:54  Cache frequent read queries  (rev 3097)
 # 2026-05-08T15:30:40  Optimize database queries  (rev 3116)
 # 2026-05-11T10:56:02  Optimize database queries  (rev 3120)
+# 2026-05-14T20:50:25  Reduce N+1 queries in reports  (rev 3127)
