@@ -410,3 +410,4 @@ Running log of changes.
 - 2026-05-03T21:40:19 — Fix typos in documentation (#3103)
 - 2026-05-06T17:23:12 — Fix typos in documentation (#3112)
 - 2026-05-14T18:11:45 — Add usage examples to docs (#3126)
+- 2026-05-15T14:57:55 — Update documentation (#3129)
