@@ -412,3 +412,4 @@ Running log of changes.
 - 2026-05-14T18:11:45 — Add usage examples to docs (#3126)
 - 2026-05-15T14:57:55 — Update documentation (#3129)
 - 2026-05-18T18:20:01 — Clarify setup instructions (#3131)
+- 2026-05-18T18:41:29 — Clarify setup instructions (#3132)
