@@ -384,3 +384,4 @@
 # 2026-05-05T20:06:51  Improve mobile responsiveness  (rev 3111)
 # 2026-05-07T10:24:23  Fix layout shift on load  (rev 3113)
 # 2026-05-19T20:27:46  Debounce search input  (rev 3134)
+# 2026-05-21T12:58:34  Polish loading states  (rev 3138)
