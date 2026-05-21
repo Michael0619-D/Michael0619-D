@@ -368,3 +368,4 @@
 # 2026-05-08T20:22:07  Add pagination to list endpoints  (rev 3118)
 # 2026-05-09T18:14:24  Add pagination to list endpoints  (rev 3119)
 # 2026-05-16T21:28:26  Simplify API response serialization  (rev 3130)
+# 2026-05-21T17:20:25  Split monolithic API handler  (rev 3140)
