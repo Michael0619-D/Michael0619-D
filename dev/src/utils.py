@@ -415,3 +415,4 @@
 # 2026-05-07T19:51:03  Rename variables for clarity  (rev 3115)
 # 2026-05-12T09:49:50  Rename variables for clarity  (rev 3122)
 # 2026-05-20T10:35:57  Remove dead imports  (rev 3135)
+# 2026-05-27T13:06:10  Tidy up module structure  (rev 3146)
