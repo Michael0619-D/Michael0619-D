@@ -390,3 +390,4 @@
 # 2026-05-29T15:10:27  Improve UI responsiveness  (rev 3151)
 # 2026-05-30T14:11:24  Improve mobile responsiveness  (rev 3154)
 # 2026-06-01T13:03:07  Improve mobile responsiveness  (rev 3157)
+# 2026-06-02T12:07:53  Polish loading states  (rev 3158)
