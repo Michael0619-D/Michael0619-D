@@ -370,3 +370,4 @@
 # 2026-05-16T21:28:26  Simplify API response serialization  (rev 3130)
 # 2026-05-21T17:20:25  Split monolithic API handler  (rev 3140)
 # 2026-05-22T11:06:35  Split monolithic API handler  (rev 3141)
+# 2026-06-02T17:26:44  Refactor API handlers  (rev 3160)
