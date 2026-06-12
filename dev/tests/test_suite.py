@@ -394,3 +394,4 @@
 # 2026-06-08T18:39:39  Add unit tests  (rev 3172)
 # 2026-06-09T15:21:21  Add unit tests  (rev 3176)
 # 2026-06-09T20:22:59  Add regression test for auth flow  (rev 3178)
+# 2026-06-12T20:39:31  Stabilize flaky integration test  (rev 3187)
