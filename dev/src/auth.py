@@ -398,3 +398,4 @@
 # 2026-06-02T18:38:03  Fix authentication bug  (rev 3161)
 # 2026-06-02T21:21:22  Fix authentication bug  (rev 3162)
 # 2026-06-16T17:19:25  Fix session timeout handling  (rev 3195)
+# 2026-06-19T20:20:09  Patch OAuth callback edge case  (rev 3201)
