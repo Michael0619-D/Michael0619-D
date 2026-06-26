@@ -398,3 +398,4 @@
 # 2026-06-21T12:55:54  Add edge-case tests for parser  (rev 3204)
 # 2026-06-22T11:59:07  Add unit tests  (rev 3206)
 # 2026-06-25T17:33:49  Increase test coverage for API layer  (rev 3217)
+# 2026-06-26T12:06:39  Stabilize flaky integration test  (rev 3218)
