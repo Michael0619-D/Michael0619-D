@@ -374,3 +374,4 @@
 # 2026-06-19T17:29:35  Wrap external calls with retries  (rev 3200)
 # 2026-06-19T21:22:56  Add graceful degradation on failure  (rev 3202)
 # 2026-06-25T17:10:28  Improve error handling  (rev 3216)
+# 2026-06-26T20:23:29  Return structured error responses  (rev 3219)
