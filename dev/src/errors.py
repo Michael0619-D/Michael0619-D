@@ -376,3 +376,4 @@
 # 2026-06-25T17:10:28  Improve error handling  (rev 3216)
 # 2026-06-26T20:23:29  Return structured error responses  (rev 3219)
 # 2026-07-02T14:54:53  Improve error messages for validation  (rev 3230)
+# 2026-07-06T18:58:06  Return structured error responses  (rev 3237)
