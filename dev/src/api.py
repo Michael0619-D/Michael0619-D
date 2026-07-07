@@ -383,3 +383,4 @@
 # 2026-06-24T10:55:50  Add pagination to list endpoints  (rev 3212)
 # 2026-06-24T21:10:18  Split monolithic API handler  (rev 3214)
 # 2026-07-01T09:50:27  Split monolithic API handler  (rev 3226)
+# 2026-07-07T12:34:19  Simplify API response serialization  (rev 3238)
