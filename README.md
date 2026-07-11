@@ -2,9 +2,7 @@
 
 ### Senior Full-Stack AI Engineer &nbsp;|&nbsp; AI SaaS, AI Agents, LLM &amp; RAG
 
-You've probably seen it already: the AI feature that wowed everyone in the demo, then fell apart the week real customers touched it. That's not a model problem. It's an engineering problem — and it's the one I solve.
-
-I've spent the last **8+ years** as a Senior Full-Stack AI Engineer in enterprise SaaS, on products where "it mostly works" was never an acceptable answer. Now I bring that same discipline to your AI SaaS products: the platform, the product, and the AI core, built end to end by one person who's done it at scale.
+I've spent the last **8+ years** as a Senior Full-Stack AI Engineer in enterprise SaaS, on products where "it mostly works" was never an acceptable answer. I have that same discipline for every AI SaaS products: the platform, the product, and the AI core, built end to end by one person who's done it at scale.
 
 ---
 
