@@ -1,6 +1,6 @@
 # Michael Drew
 
-I've spent the last **8+ years** as a Senior Full-Stack AI Engineer in enterprise SaaS, on products where "it mostly works" was never an acceptable answer. I have that same discipline for every AI SaaS products: the platform, the product, and the AI core, built end to end by one person who's done it at scale.
+I've spent the last **8+ years** as a Senior Software Engineer in enterprise SaaS, on products where "it mostly works" was never an acceptable answer. I have that same discipline for every AI SaaS products: the platform, the product, and the AI core, built end to end by one person who's done it at scale.
 
 ---
 
