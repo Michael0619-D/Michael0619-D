@@ -26,5 +26,3 @@ I've spent the last **8+ years** as a Senior Software Engineer in enterprise Saa
 - **SecOps:** authentication and RBAC, secrets management, audit logging, security-first code review
 
 ---
-
-<sub>📫 Reach me at michaeldrew0619@gmail.com</sub>
